@@ -490,17 +490,27 @@ if selected_category == "Batters":
         st.subheader("League Averages", divider='gray')
         st.dataframe(league_averages, use_container_width=True, hide_index=True)
         team_abbreviations = {
-        'MXC': 'Aguilas de Mexicali',
-        'JAL': 'Charros de Jalisco',
-        'MOC': 'Caneros de los Mochis',
-        'NAV': 'Mayos de Navojoa',
-        'HER': 'Naranjeros de Hermosillo',
-        'CUL': 'Tomateros de Culiacan',
-        'MAZ': 'Venados de Mazatlan',
-        'OBR': 'Yaquis de Obregon',
-        'GSV': 'Algodoneros de Guasave',
-        'MTY': 'Sultanes de Monterrey'
-    }
+            'PUE': 'Pericos de Puebla',
+            'CAM': 'Piratas de Campeche',
+            'AGS': 'Rieleros de Aguascalientes',
+            'TIJ': 'Toros de Tijuana',
+            'MEX': 'Diablos Rojos del Mexico',
+            'LAR': 'Tecos de los Dos Laredos',
+            'QRO': 'Conspiradores de Queretaro',
+            'MVA': 'Acereros del Norte',
+            'LEO': 'Bravos de Leon',
+            'TIG': 'Tigres de Quintana Roo',
+            'TAB': 'Olmecas de Tabasco',
+            'LAG': 'Algodoneros Union Laguna',
+            'CHI': 'Dorados de Chihuahua',
+            'VER': 'El Aguila de Veracruz',
+            'OAX': 'Guerreros de Oaxaca',
+            'DUR': 'Caliente de Durango',
+            'YUC': 'Leones de Yucatan',
+            'SLT': 'Saraperos de Saltillo',
+            'JAL': 'Charros de Jalisco',
+            'MTY': 'Sultanes de Monterrey'
+        }
 
         # Replace team abbreviations with full team names in both DataFrames
         team_data_std_batters['team'] = team_data_std_batters['team'].replace(team_abbreviations)
@@ -992,8 +1002,8 @@ elif selected_category == "Pitchers":
         # Display Combined League Averages
         st.subheader("League Averages", divider='gray')
 
-        league_avg_df.insert(2, 'FIP', 3.51)
-        league_avg_df.insert(3, 'xFIP', 3.84)
+        league_avg_df.insert(2, 'FIP', 5.16)
+        league_avg_df.insert(3, 'xFIP', 4.45)
         league_columns = ['ERA', 'WHIP', 'FIP', 'xFIP','K%', 'BB%', 'K-BB%', 'SwStr%', 'Whiff%', 'Str%', 'CSW%', 'CStr%', 'F-Strike%', 'LD%', 'GB%', 'FB%', 'PopUp%', 'HR/FB%', 'BABIP', 'AVG', 'OBP', 'SLG', 'OPS',
                           'K/9', 'BB/9', 'H/9', 'R/9', 'HR/9', 'K/BB']
         league_avg_formatted = league_avg_df[league_columns].style.format({
@@ -1019,18 +1029,27 @@ elif selected_category == "Pitchers":
         st.dataframe(league_avg_formatted, use_container_width=True, hide_index=True)
 
         team_abbreviations = {
-        'MXC': 'Aguilas de Mexicali',
-        'JAL': 'Charros de Jalisco',
-        'MOC': 'Caneros de los Mochis',
-        'NAV': 'Mayos de Navojoa',
-        'HER': 'Naranjeros de Hermosillo',
-        'CUL': 'Tomateros de Culiacan',
-        'MAZ': 'Venados de Mazatlan',
-        'OBR': 'Yaquis de Obregon',
-        'GSV': 'Algodoneros de Guasave',
-        'MTY': 'Sultanes de Monterrey'
-    }
-        
+            'PUE': 'Pericos de Puebla',
+            'CAM': 'Piratas de Campeche',
+            'AGS': 'Rieleros de Aguascalientes',
+            'TIJ': 'Toros de Tijuana',
+            'MEX': 'Diablos Rojos del Mexico',
+            'LAR': 'Tecos de los Dos Laredos',
+            'QRO': 'Conspiradores de Queretaro',
+            'MVA': 'Acereros del Norte',
+            'LEO': 'Bravos de Leon',
+            'TIG': 'Tigres de Quintana Roo',
+            'TAB': 'Olmecas de Tabasco',
+            'LAG': 'Algodoneros Union Laguna',
+            'CHI': 'Dorados de Chihuahua',
+            'VER': 'El Aguila de Veracruz',
+            'OAX': 'Guerreros de Oaxaca',
+            'DUR': 'Caliente de Durango',
+            'YUC': 'Leones de Yucatan',
+            'SLT': 'Saraperos de Saltillo',
+            'JAL': 'Charros de Jalisco',
+            'MTY': 'Sultanes de Monterrey'
+        }
         team_data_std_df['team'] = team_data_std_df['team'].replace(team_abbreviations)
         team_data_adv_df['team'] = team_data_adv_df['team'].replace(team_abbreviations)
 
