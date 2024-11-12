@@ -1,0 +1,1013 @@
+id,fullName,birthDate,currentAge,height,weight,POS,Birthplace,B/T
+456167,A.J. Griffin,28-01-1988,36.0,"6' 5""",230.0,P,"El Cajon, USA",R/R
+665733,Antonio Santos,06-10-1996,28.0,"6' 3""",223.0,P,"Villa Gonzalez, Dominican Republic",R/R
+621591,Alfred Gutierrez,12-06-1995,29.0,"6' 1""",200.0,P,"Nueva Esparta, Venezuela",R/R
+667910,Juan Macias,13-01-1996,28.0,"6' 0""",220.0,P,"Obregon, Mexico",R/R
+666669,Elkin Alcala,02-08-1997,27.0,"5' 11""",175.0,P,"Cartagena, Colombia",R/R
+593679,Gabriel Ynoa,26-05-1993,31.0,"6' 2""",205.0,P,"La Vega, Dominican Republic",R/R
+800079,Cristian Alvarado,06-07-2003,21.0,"6' 0""",185.0,P,"Esperanza, Mexico",R/R
+605795,Angel Sánchez,28-11-1989,34.0,"6' 1""",190.0,P,"Tenares, Dominican Republic",R/R
+607733,Drew Stankiewicz,18-06-1993,31.0,"5' 10""",160.0,2B,"Columbus, USA",S/R
+572182,Darnell Sweeney,01-02-1991,33.0,"6' 1""",205.0,OF,"Hollywood, USA",S/R
+675188,Hector Villalobos,19-08-1996,28.0,"5' 11""",182.0,P,"San Quintin, Mexico",L/L
+678499,Randy Romero,10-08-1999,25.0,"5' 11""",155.0,OF,"Mexicali, Mexico",R/R
+675546,Jesus Huerta,28-09-1994,30.0,"6' 0""",181.0,P,"Hermosillo, Mexico",R/R
+670772,Henry Omana,03-05-1994,30.0,"6' 4""",210.0,P,"Walnut, USA",R/R
+692940,Erick Preciado,25-06-1996,28.0,"6' 0""",180.0,P,,R/R
+802578,Armando Aguilar,09-09-1998,26.0,"5' 8""",203.0,IF,"Hermosillo, Mexico",L/R
+456379,Al Alburquerque,10-06-1986,38.0,"6' 0""",195.0,P,"San Pedro de Macoris, Dominican Republic",R/R
+661265,Yoennis Yera,18-10-1989,35.0,"5' 7""",165.0,P,"Matanzas, Cuba",L/L
+634739,Miguel Guzman,23-08-1995,29.0,"5' 6""",175.0,3B,"Leon, Mexico",R/R
+608475,Dawel Lugo,31-12-1994,29.0,"6' 0""",190.0,3B,"Bani, Dominican Republic",R/R
+593528,Jorge Bonifacio,04-06-1993,31.0,"6' 0""",220.0,OF,"Santo Domingo, Dominican Republic",R/R
+572177,Nick Struck,07-10-1989,35.0,"6' 0""",205.0,P,"Portland, USA",R/R
+666627,Faustino Carrera,09-03-1999,25.0,"5' 10""",165.0,P,"Ciudad Obregon, Mexico",L/L
+501317,Francisco Peguero,01-06-1988,36.0,"6' 0""",190.0,OF,"Nigua, Dominican Republic",R/R
+511428,Leo Heras,29-05-1990,34.0,"5' 9""",190.0,OF,"Tijuana, Mexico",L/R
+653001,Samar Leyva,20-09-1994,30.0,"6' 0""",163.0,2B,"Los Mochis, Mexico",R/R
+801994,R.J. Martinez,14-09-1998,26.0,"5' 11""",175.0,P,"Moreno Valley, USA",L/L
+664021,Ciro Norzagaray,17-08-1994,30.0,"5' 10""",171.0,SS,"Mexico City, Mexico",R/R
+477569,Fernando Salas,30-05-1985,39.0,"6' 2""",200.0,P,"Huatabampo, Mexico",R/R
+641501,Tyler Danish,12-09-1994,30.0,"6' 0""",200.0,P,"Brandon, USA",R/R
+687344,Kevin Milam,13-02-1998,26.0,"6' 0""",200.0,P,"Fremont, USA",R/R
+642751,Carlos Martínez,02-05-1995,29.0,"5' 11""",195.0,C,"Cartagena, Colombia",R/R
+662962,Jasson Atondo,27-08-1995,29.0,"6' 0""",165.0,IF,"El Colorado, Mexico",R/R
+682204,Logan Brown,14-09-1996,28.0,"6' 0""",195.0,C,"Mt. Vernon, USA",L/R
+669315,Orlando Pina,09-04-1998,26.0,"5' 11""",218.0,C,"Ciudad Obregon, Mexico",R/R
+608364,Nellie Rodriguez,12-06-1994,30.0,"6' 2""",225.0,1B,"New York, USA",R/R
+701812,Rogelio Cobos,13-07-1999,25.0,"6' 0""",205.0,OF,"Campeche, Mexico",L/R
+685834,Michael Baca,04-09-1992,32.0,"5' 10""",175.0,2B,"Amarillo, USA",R/R
+679001,Braulio Torres-Perez,09-04-1993,31.0,"5' 10""",210.0,P,"Auburn, USA",L/L
+607752,Sam Travis,27-08-1993,31.0,"6' 0""",220.0,1B,"Chicago, USA",R/R
+607359,Spencer Patton,20-02-1988,36.0,"6' 1""",200.0,P,"Urbana, USA",R/R
+608601,Luis Santos,11-02-1991,33.0,"6' 0""",225.0,P,"Bonao, Dominican Republic",R/R
+517062,Juan Pablo Oramas,11-05-1990,34.0,"5' 10""",210.0,P,"Villa Hermosa Centro, Mexico",L/L
+675202,Juan Kirk,15-06-1996,28.0,"5' 10""",196.0,C,"Tijuana, Mexico",R/R
+679647,Jackson Rose,25-04-1996,28.0,"6' 2""",185.0,P,"Lincoln, USA",R/R
+674476,Jonathan Partida,22-06-1998,26.0,"5' 7""",174.0,P,"Tijuana, Mexico",L/L
+677900,Manuel Barradas,15-05-2000,24.0,"5' 8""",170.0,C,"Ciudad Cardel, Mexico",R/R
+676339,Sean Rackoski,12-05-1995,29.0,"6' 7""",225.0,P,"Mesa, USA",R/R
+542436,Cristhian Adames,26-07-1991,33.0,"5' 11""",217.0,SS,"Santo Domingo, Dominican Republic",S/R
+671760,Mario Jimenez,06-12-1995,28.0,"5' 11""",198.0,P,"Oaxaca, Mexico",R/R
+634496,Leo German,10-01-1993,31.0,"5' 9""",175.0,OF,"Culiacan, Mexico",R/R
+811373,Gerardo Castaneda,12-05-1999,25.0,"6' 3""",215.0,C,"Tula de Ayende, Mexico",S/R
+600466,Raudy Read,29-10-1993,31.0,"6' 0""",220.0,1B,"San Jose de Ocoa, Dominican Republic",R/R
+641896,Roy Morales,25-06-1995,29.0,"6' 2""",195.0,C,"Lares, Puerto Rico",R/R
+650828,Edgar Santana,16-10-1991,33.0,"6' 2""",205.0,P,"Puerto Plata, Dominican Republic",R/R
+679114,Giancarlo Servin,22-06-1999,25.0,"6' 1""",210.0,3B,"Edinburg, USA",R/R
+571740,Billy Hamilton,09-09-1990,34.0,"6' 0""",160.0,OF,"Taylorsville, USA",S/R
+546366,Francisco Lugo,22-10-1991,33.0,"6' 0""",180.0,OF,"Hermosillo, Mexico",R/R
+815052,Alan Valdez,07-12-2000,23.0,"6' 0""",198.0,P,"Obregon, Mexico",R/R
+501659,Abraham Almonte,27-06-1989,35.0,"5' 10""",223.0,OF,"Santo Domingo, Dominican Republic",S/R
+642736,Domingo Leyba,11-09-1995,29.0,"5' 8""",205.0,2B,"Santo Domingo, Dominican Republic",S/R
+467031,Wirfin Obispo,26-09-1984,40.0,"6' 2""",215.0,P,"San Pedro de Macoris, Dominican Republic",R/R
+670381,Fred Villarreal,07-04-1998,26.0,"5' 11""",187.0,P,"Brownsville, USA",R/R
+598284,Peter O'Brien,15-07-1990,34.0,"6' 4""",225.0,OF,"Hialeah, USA",R/R
+543611,Danny Ortiz,05-01-1990,34.0,"5' 11""",190.0,OF,"Caguas, Puerto Rico",L/L
+516679,Sebastian Valle,24-07-1990,34.0,"6' 1""",215.0,C,"Los Mochis, Mexico",R/R
+672906,Lazaro Alonso,17-12-1994,29.0,"6' 3""",220.0,1B,"Pinar Del Rio, Cuba",L/R
+641962,CD Pelham,21-02-1995,29.0,"6' 6""",238.0,P,"Lancaster, USA",R/L
+660436,Yadir Drake,12-04-1990,34.0,"6' 0""",200.0,OF,"Matanzas, Cuba",R/R
+543021,Art Charles,10-11-1990,33.0,"6' 6""",220.0,1B,"Bakersfield, USA",L/L
+643418,Shed Long Jr.,22-08-1995,29.0,"5' 8""",184.0,2B,"Birmingham, USA",L/R
+814028,Emiliano Valencia,16-06-2003,21.0,"5' 9""",183.0,IF,"Hermosillo, Mexico",R/R
+665789,Kenny Hernandez,24-06-1998,26.0,"6' 1""",197.0,P,"David, Panama",L/L
+517414,Randall Delgado,09-02-1990,34.0,"6' 4""",220.0,P,"Las Tablas, Panama",R/R
+594582,Yoanner Negrin,29-04-1984,40.0,"5' 11""",190.0,P,"Havana, Cuba",R/R
+606299,José Peraza,30-04-1994,30.0,"6' 0""",210.0,2B,"Barinas, Venezuela",R/R
+803376,Angel Camacho,12-10-2000,24.0,"6' 2""",176.0,IF,"Hermosillo, Mexico",R/R
+514913,Rubén Tejada,27-10-1989,35.0,"5' 11""",200.0,2B,"Veraguas, Panama",R/R
+656080,Aneuris Rosario,04-03-1995,29.0,"6' 0""",165.0,P,"Santiago, Dominican Republic",R/R
+664584,Jhon Romero,17-01-1995,29.0,"5' 10""",195.0,P,"Cartagena, Colombia",R/R
+503429,Walter Ibarra,01-11-1987,37.0,"5' 11""",180.0,SS,"Los Mochis, Mexico",S/R
+491624,César Valdez,17-03-1985,39.0,"6' 2""",225.0,P,"Santo Domingo, Dominican Republic",R/R
+673140,Elian Leyva,17-03-1989,35.0,"6' 2""",210.0,P,"Havana, Cuba",R/R
+550492,Luis Juarez,06-02-1990,34.0,"5' 8""",176.0,C,"Culiacan, Mexico",R/R
+674671,Robbie Glendinning,06-10-1995,29.0,"6' 0""",196.0,SS,"Perth, Australia",R/R
+806879,Anhuar Garcia,28-02-2004,20.0,"6' 1""",200.0,P,,R/R
+658069,Joshua Fuentes,19-02-1993,31.0,"6' 0""",209.0,3B,"Rancho Santo Margarita, USA",R/R
+671246,Fabricio Macias,11-03-1998,26.0,"6' 0""",188.0,OF,"Saltillo, Mexico",R/R
+672953,Gilberto Vizcarra,01-03-1999,25.0,"5' 10""",180.0,C,"Mexicali, Mexico",R/R
+622797,Pedro Payano,27-09-1994,30.0,"6' 2""",170.0,P,"New York, USA",R/R
+667385,Merfy Andrew,12-11-1996,27.0,"6' 1""",200.0,P,"Bonao, Dominican Republic",R/R
+672911,Jesus Cruz,15-04-1995,29.0,"6' 1""",230.0,P,"Salinas de Hidalgo, Mexico",R/R
+665883,Yeison Coca,22-05-1999,25.0,"5' 11""",182.0,3B,"Monte Plata, Dominican Republic",S/R
+628333,Odrisamer Despaigne,04-04-1987,37.0,"6' 0""",200.0,P,"Havana, Cuba",R/R
+629500,Williams Ramirez,08-08-1992,32.0,"6' 1""",200.0,P,"San Juan, Dominican Republic",R/R
+593590,Webster Rivas,08-08-1990,34.0,"6' 1""",219.0,1B,"Nagua, Dominican Republic",R/R
+678465,Tomo Otosaka,06-01-1994,30.0,"5' 11""",182.0,OF,"Yokohama, Japan",L/R
+662964,Francisco Haro,17-02-1997,27.0,"6' 0""",168.0,P,"Los Mochis, Mexico",R/R
+650995,Norberto Obeso,09-07-1995,29.0,"6' 0""",175.0,OF,"Hermosillo, Mexico",L/R
+700071,Alexandro Tovalin,25-11-1997,26.0,"6' 0""",187.0,P,"San Diego, USA",R/R
+447816,Angel Sanchez,20-09-1983,41.0,"6' 1""",205.0,SS,"Humacao, Puerto Rico",R/R
+641312,Shaun Anderson,29-10-1994,30.0,"6' 6""",228.0,P,"Coral Springs, USA",R/R
+520976,Engel Beltre,01-11-1989,35.0,"6' 2""",180.0,OF,"Santo Domingo, Dominican Republic",L/L
+696075,Luis Angel Verdugo,07-05-2003,21.0,"6' 0""",186.0,P,"Culiacan, Mexico",R/R
+571328,Jovany Lopez,11-04-1991,33.0,"5' 10""",175.0,P,"Los Mochis, Mexico",L/L
+689901,Nico Zeglin,19-01-2000,24.0,"6' 4""",200.0,P,"Walnut Creek, USA",R/R
+664641,Aríel Miranda,10-01-1989,35.0,"6' 2""",190.0,P,"Havana, Cuba",L/L
+621593,Anthony Castro,13-04-1995,29.0,"6' 2""",191.0,P,"Caracas, Venezuela",R/R
+500135,Ronny Rodríguez,17-04-1992,32.0,"6' 0""",180.0,SS,"Santiago, Dominican Republic",R/R
+554428,Alejandro Ortiz,06-02-1990,34.0,"5' 11""",170.0,OF,"San Blas, Mexico",S/R
+674498,Luis Castillo,01-11-1996,28.0,"5' 7""",165.0,P,"Campeche, Mexico",R/R
+542655,Edwin Garcia,01-03-1991,33.0,"6' 1""",185.0,SS,"Mariara, Venezuela",R/R
+616570,Daniel Sanchez,16-12-1992,31.0,"5' 10""",165.0,C,"Saltillo, Mexico",R/R
+499864,Luis Jimenez,18-01-1988,36.0,"6' 1""",205.0,3B,"Santo Domingo, Dominican Republic",R/R
+495664,Ricardo Serrano,03-04-1986,38.0,"5' 9""",165.0,2B,"Gomez Palacio, Mexico",S/R
+665981,Abel Adames,08-12-1995,28.0,"6' 5""",190.0,P,"Fantino, Dominican Republic",R/R
+802568,Daniel Zazueta,13-10-2000,24.0,"5' 8""",165.0,P,"Navajoa, Mexico",L/L
+553868,Norman Elenes,10-07-1992,32.0,"6' 0""",175.0,P,"Culiacan, Mexico",L/R
+675970,Alex Robles,07-07-1995,29.0,"6' 0""",200.0,OF,"Tucson, USA",R/R
+642396,Manuel Rondon,07-03-1995,29.0,"6' 1""",165.0,P,"Purto Cabello, Venezuela",L/L
+620442,Wendell Rijo,04-09-1995,29.0,"5' 9""",170.0,2B,"La Romana, Dominican Republic",R/R
+802394,Carlos Villegas,15-03-2005,19.0,"5' 9""",187.0,P,"Santiago Ixcuintla, Mexico",R/R
+681835,Jose Quezada,07-09-1995,29.0,"5' 9""",165.0,P,"Chihuahua, Mexico",R/R
+681124,Christian Prado,01-08-1994,30.0,"6' 1""",202.0,P,"Orange, USA",R/R
+658742,Diogenes Almengo,02-06-1995,29.0,"6' 2""",190.0,P,"Santiago, Dominican Republic",R/R
+672757,Miguel Lopez,02-08-1998,26.0,"6' 1""",206.0,C,"Ahome, Mexico",R/R
+493337,Yunesky Maya,28-08-1981,43.0,"6' 0""",215.0,P,"Pinar del Rio, Cuba",R/R
+678540,Brayan Quintero,19-02-1999,25.0,"5' 9""",176.0,2B,"Mazatlan, Mexico",R/R
+665759,Ramón Rosso,09-06-1996,28.0,"6' 4""",240.0,P,"Santo Domingo Centro, Dominican Republic",R/R
+591572,Jose Aguilar,19-05-1990,34.0,"5' 10""",185.0,OF,"Maravatio, Mexico",R/R
+506747,Francisco Peña,12-10-1989,35.0,"6' 2""",230.0,C,"Santiago, Dominican Republic",R/R
+514719,Henry Alejandro Rodriguez,09-02-1990,34.0,"5' 8""",200.0,2B,"Maracay, Venezuela",S/R
+823942,Yordi Martinez,29-05-2002,22.0,"5' 8""",171.0,OF,"Campeche, Mexico",L/L
+823941,Isboseth Morales,17-06-2005,19.0,"6' 0""",185.0,OF,"Cosoleacaque, Mexico",S/R
+519068,Efren Navarro,14-05-1986,38.0,"6' 0""",210.0,1B,"Lynwood, USA",L/L
+650619,Meibrys Viloria,15-02-1997,27.0,"5' 11""",225.0,C,"Cartagena, Colombia",L/R
+692643,Ernesto Borges,17-05-2001,23.0,"6' 2""",188.0,P,"Campeche, Mexico",R/R
+429664,Robinson Canó,22-10-1982,42.0,"6' 0""",212.0,2B,"San Pedro de Macoris, Dominican Republic",L/R
+669214,Conner Menez,29-05-1995,29.0,"6' 2""",206.0,P,"Hollister, USA",L/L
+664682,Ryan Meisinger,04-05-1994,30.0,"6' 4""",235.0,P,"Prince Frederick, USA",R/R
+664082,Michael Boyle,12-04-1994,30.0,"6' 3""",200.0,P,"Richmond, USA",R/L
+570717,Ramón Flores,26-03-1992,32.0,"5' 10""",190.0,OF,"Barinas, Venezuela",L/L
+688896,Justin Courtney,24-07-1996,28.0,"6' 5""",225.0,P,"Bangor, USA",R/R
+510612,Francisco Cordoba,01-06-1984,40.0,"5' 11""",190.0,C,"Tlalixcoyan, Mexico",R/R
+594965,Daniel Ponce de Leon,16-01-1992,32.0,"6' 3""",200.0,P,"Anaheim, USA",R/R
+585251,Juan Carlos Gamboa,18-04-1991,33.0,"5' 7""",155.0,SS,"Los Mochis, Mexico",L/R
+678410,Saul Vazquez,25-06-2000,24.0,"6' 1""",178.0,P,"Merida, Mexico",L/L
+642607,Dario Agrazal,28-12-1994,29.0,"6' 2""",225.0,P,"Aguadulce, Panama",R/R
+800591,Maximo Rodriguez,23-12-2005,18.0,"5' 9""",181.0,P,"Mazatlan, Mexico",R/R
+672598,Alemao Hernandez,27-09-1999,25.0,"5' 8""",187.0,P,"Guadalajara, Mexico",L/L
+670873,Lisandro Santos,24-07-1998,26.0,"6' 1""",227.0,P,"Santiago, Dominican Republic",L/L
+644425,Jake Sanchez,19-08-1989,35.0,"6' 1""",205.0,P,"Brawley, USA",R/R
+541608,Ramón Cabrera,05-11-1989,35.0,"5' 8""",195.0,C,"Caracas, Venezuela",S/R
+661148,Carlos Sepulveda,27-08-1996,28.0,"5' 10""",170.0,2B,"Monclova, Mexico",L/R
+682655,Fernando Villalobos,24-06-2002,22.0,"5' 11""",195.0,C,"Ensenada, Mexico",L/R
+664850,Patrick Mazeika,14-10-1993,31.0,"6' 1""",210.0,C,"Springfield, USA",L/R
+676140,Julian Ornelas,28-12-1996,27.0,"6' 0""",184.0,OF,"Tijuana, Mexico",L/R
+642758,Domingo Acevedo,06-03-1994,30.0,"6' 7""",240.0,P,"Villa Los Almacigos, Dominican Republic",R/R
+806883,Luis Ramirez,02-11-2004,20.0,"5' 11""",194.0,P,,R/R
+545333,Trevor Bauer,17-01-1991,33.0,"6' 1""",205.0,P,"North Hollywood, USA",R/R
+467094,Felix Doubront,23-10-1987,37.0,"6' 2""",240.0,P,"Carabobo, Venezuela",L/L
+650331,Lewin Díaz,19-11-1996,27.0,"6' 2""",232.0,1B,"Santiago, Dominican Republic",L/L
+642231,Jimmy Yacabonis,21-03-1992,32.0,"6' 3""",225.0,P,"Elizabeth, USA",R/R
+622742,Rafael Cordova,16-11-1994,29.0,"6' 2""",175.0,P,"Yuma, USA",R/R
+652999,Jesus Fabela,07-12-1994,29.0,"5' 8""",171.0,OF,"Tijuana, Mexico",R/R
+605011,Moises Gutierrez,19-11-1994,29.0,"5' 9""",165.0,2B,"San Luis Potosi, Mexico",S/R
+500874,José A. Martínez,25-07-1988,36.0,"6' 6""",215.0,OF,"La Guaira, Venezuela",R/R
+592530,José Marmolejos,02-01-1993,31.0,"6' 2""",239.0,1B,"Perth Amboy, USA",L/L
+616623,Edwin Fierro,30-08-1993,31.0,"6' 1""",200.0,P,"Ciudad Obregon, Mexico",R/R
+678713,Efrain Contreras,02-01-2000,24.0,"5' 10""",225.0,P,"Ciudad Juarez, Mexico",R/R
+491703,Neftalí Feliz,02-05-1988,36.0,"6' 3""",235.0,P,"Azua, Dominican Republic",R/R
+620439,Franklin Barreto,27-02-1996,28.0,"5' 8""",208.0,SS,"Caracas, Venezuela",R/R
+453307,David Huff,22-08-1984,40.0,"6' 1""",210.0,P,"Huntington Beach, USA",S/L
+602922,José Rondón,03-03-1994,30.0,"6' 1""",215.0,SS,"Villa de Cura, Venezuela",R/R
+600301,Taylor Motter,18-09-1989,35.0,"6' 1""",195.0,2B,"West Palm Beach, USA",R/R
+621348,Sam Clay,21-06-1993,31.0,"6' 3""",238.0,P,"Knoxville, USA",L/L
+811812,Jorge Monroy,21-03-2002,22.0,"6' 1""",220.0,P,"Guasave, Mexico",R/R
+606157,Aristides Aquino,22-04-1994,30.0,"6' 4""",220.0,OF,"Santo Domingo, Dominican Republic",R/R
+592222,Alex Claudio,31-01-1992,32.0,"6' 2""",190.0,P,"San Juan, Puerto Rico",L/L
+468368,Gabriel Gutierrez,24-11-1983,40.0,"5' 10""",205.0,C,"Guasave, Mexico",R/R
+677690,Diosbel Arias,21-07-1996,28.0,"6' 2""",190.0,1B,"Havana, Cuba",R/R
+823701,Tomohiro Anraku,04-11-1996,28.0,"6' 1""",191.0,P,"Matsuyama, Japan",L/R
+657122,Ronnie Williams,06-01-1996,28.0,"6' 0""",170.0,P,"Miami, USA",R/R
+670986,Jose Bravo,10-06-1997,27.0,"6' 3""",213.0,P,"Tijuana, Mexico",R/R
+667638,Samuel Alvarado,30-06-1994,30.0,"6' 0""",172.0,P,"Edinburg, USA",R/R
+649957,Gersel Pitre,23-07-1996,28.0,"6' 0""",203.0,C,"Catia La Mar, Venezuela",R/R
+679892,Emilio Marquez,28-04-1998,26.0,"5' 8""",170.0,P,"Upata, Venezuela",L/L
+650492,Domingo Jimenez,29-08-1993,31.0,"6' 3""",175.0,P,"San Cristobal, Dominican Republic",R/R
+474892,Chris Carter,18-12-1986,37.0,"6' 4""",245.0,1B,"Redwood City, USA",R/R
+666128,Mario Feliciano,20-11-1998,25.0,"5' 10""",200.0,C,"Bayamon, Puerto Rico",R/R
+683138,Fernando Lozano,11-01-2000,24.0,"6' 2""",186.0,P,"Ensenada, Mexico",R/R
+621343,Matt Tenuta,16-12-1993,30.0,"6' 4""",225.0,P,"Apex, USA",R/L
+660788,Jesus Vargas,18-08-1998,26.0,"6' 2""",175.0,P,"Macuto, Venezuela",R/R
+676761,Irving Lopez,30-06-1995,29.0,"5' 7""",175.0,2B,"Hermosillo, Mexico",L/R
+661269,Vladimir Gutierrez,18-09-1995,29.0,"6' 1""",205.0,P,"Havana, Cuba",R/R
+540988,Demetrio Gutierrez,14-02-1990,34.0,"6' 2""",185.0,P,"Los Mochis, Mexico",L/L
+614182,Jose Carlos Urena,14-01-1995,29.0,"6' 3""",180.0,OF,"Ciudad Obregon, Mexico",R/R
+827111,Jafet Ojeda,29-02-2004,20.0,"5' 9""",190.0,2B,"Merida, Mexico",R/R
+660440,Odalvi Javier,04-09-1996,28.0,"6' 0""",180.0,P,"Puerto Plata, Dominican Republic",R/R
+663677,Alex Reyes,02-01-1997,27.0,"6' 0""",174.0,P,"El Paso, USA",R/R
+642456,Luis Barrera,15-11-1995,28.0,"6' 0""",195.0,OF,"Tamboril, Dominican Republic",L/L
+642532,Luis Miranda,05-09-1994,30.0,"5' 11""",180.0,P,"Hermosillo, Mexico",R/R
+602074,Yonathan Daza,28-02-1994,30.0,"6' 2""",207.0,OF,"Maracay, Venezuela",R/R
+657674,Kyle Martin,13-11-1992,31.0,"6' 2""",240.0,1B,"Greenville, USA",L/L
+685736,Cristian Mejia,20-07-1999,25.0,"6' 1""",192.0,C,"Gusave, Mexico",R/R
+467785,Radhames Liz,06-10-1983,41.0,"6' 2""",200.0,P,"El Seybo, Dominican Republic",R/R
+506560,Alexi Amarista,06-04-1989,35.0,"5' 6""",160.0,SS,"Barcelona, Venezuela",L/R
+666672,Jojanse Torres,04-08-1995,29.0,"6' 2""",188.0,P,"San Pedro de Macoris, Dominican Republic",R/R
+592312,Jorge Flores,25-11-1991,32.0,"5' 5""",160.0,SS,"Ensenada, Mexico",R/R
+593449,Gabriel Lino,17-05-1993,31.0,"6' 3""",200.0,C,"Maracay, Venezuela",R/R
+594020,Ricardo Valenzuela,04-08-1990,34.0,"6' 0""",190.0,C,"Hermosillo, Mexico",R/R
+471906,Reynaldo Rodriguez,02-07-1986,38.0,"6' 0""",195.0,1B,"Cartagena, Colombia",R/R
+669476,Jake Walters,11-03-1996,28.0,"6' 0""",190.0,P,"Flowood, USA",R/R
+620445,José Mujica,29-06-1996,28.0,"6' 2""",249.0,P,"Valencia, Venezuela",R/R
+641300,Reza Aleaziz,11-07-1995,29.0,"6' 4""",225.0,P,"Tigard, USA",R/R
+592889,Ernesto Zaragoza,26-09-1992,32.0,"6' 1""",175.0,P,"Anaheim, USA",R/R
+629498,Johan Quezada,25-08-1994,30.0,"6' 9""",255.0,P,"Santo Domingo, Dominican Republic",R/R
+681482,Pedro Castellano,26-08-1996,28.0,"6' 0""",185.0,IF,"Denver, USA",L/R
+663603,Solomon Bates,16-03-1997,27.0,"6' 2""",210.0,P,"Victorville, USA",R/R
+524648,Alejandro Gonzalez,18-10-1985,39.0,"5' 11""",155.0,OF,"Navojoa, Mexico",S/R
+657733,Roberto Ramos,28-12-1994,29.0,"6' 3""",220.0,1B,"Hermosillo, Mexico",L/R
+701722,Sebastian Garcia,08-11-2002,22.0,"6' 0""",200.0,3B,"Culiacan, Mexico",R/R
+680024,Jose Frutos,07-07-1997,27.0,"6' 0""",187.0,P,"Ocotlan, Mexico",R/R
+680660,Oscar Valenzuela,02-03-2001,23.0,"5' 11""",171.0,P,"Tampico, Mexico",R/R
+605301,Williams Jerez,16-05-1992,32.0,"6' 4""",210.0,P,"Santiago, Dominican Republic",L/L
+691823,Esteban Bloch,06-08-1999,25.0,"6' 3""",187.0,P,"Hermosillo, Mexico",R/R
+670582,Yariel Gonzalez,01-06-1994,30.0,"6' 1""",190.0,2B,"Mayaguez, Puerto Rico",S/R
+578570,Juniel Querecuto,19-09-1992,32.0,"5' 9""",195.0,3B,"Barquisimeto, Venezuela",S/R
+660435,Chester Pimentel,12-11-1995,28.0,"6' 5""",210.0,P,"Villa Fundacion, Dominican Republic",R/R
+644429,Anderson Severino,17-09-1994,30.0,"5' 10""",190.0,P,"Santo Domingo, Dominican Republic",L/L
+600895,Jesus Fandino,27-01-1994,30.0,"6' 2""",165.0,P,"Acarigua, Venezuela",R/R
+644391,Scott Harkin,06-08-1991,33.0,"6' 2""",200.0,P,"Walnut Creek, USA",R/R
+591732,Ignacio Marrujo,21-09-1992,32.0,"5' 10""",189.0,P,"Mazatlan, Mexico",R/R
+499926,Alex Liddi,14-08-1988,36.0,"6' 4""",225.0,3B,"San Remo, Italy",R/R
+594092,Angel Chavarin,22-10-1990,34.0,"6' 0""",190.0,C,"Mazatlan, Mexico",L/R
+570502,Loiger Padron,31-01-1991,33.0,"6' 0""",180.0,P,"Puerto Ordaz, Venezuela",R/R
+828332,Jesus Higuera,27-10-2006,18.0,"5' 11""",164.0,2B,"Culiacan, Mexico",R/R
+664768,Connor Panas,11-02-1993,31.0,"6' 0""",218.0,OF,"Toronto, Canada",L/R
+546990,Anthony Alford,20-07-1994,30.0,"6' 0""",215.0,OF,"Columbia, USA",R/R
+676019,Oscar Rojas,05-05-1999,25.0,"5' 11""",200.0,P,"Guanajuato, Mexico",R/R
+542279,Javier Solano,31-03-1990,34.0,"6' 0""",180.0,P,"San Luis Rio Colorado, Mexico",R/R
+670416,Zach Matson,24-10-1995,29.0,"6' 3""",225.0,P,"Fayetteville, USA",L/L
+650701,Ricardo Cespedes,24-08-1997,27.0,"6' 1""",205.0,OF,"Bronx, USA",L/L
+824271,Jonathan Mendoza,23-01-2005,19.0,"5' 8""",170.0,2B,"Ciudad Obregon, Mexico",R/R
+622398,Marco Guzman,07-08-1994,30.0,"6' 0""",170.0,2B,"Campeche, Mexico",R/R
+593471,Isaias Tejeda,28-10-1991,33.0,"6' 0""",195.0,C,"Santo Domingo, Dominican Republic",R/R
+593594,Octavio Acosta,03-08-1990,34.0,"6' 0""",165.0,P,"Guasave, Mexico",R/R
+685829,Irving Machuca,01-05-2000,24.0,"6' 2""",205.0,P,"Guasave., Mexico",R/R
+675132,Yamil Castillo,18-08-1999,25.0,"6' 1""",200.0,P,"Minatitlan, Mexico",R/R
+591977,Felix Perez,14-11-1984,39.0,"6' 2""",190.0,OF,"Isla de la Juventud, Cuba",L/L
+643615,T.J. Zeuch,01-08-1995,29.0,"6' 7""",245.0,P,"Mason, USA",R/R
+527055,Arodys Vizcaíno,13-11-1990,33.0,"6' 0""",245.0,P,"Yaguate, Dominican Republic",R/R
+588751,Adeiny Hechavarría,15-04-1989,35.0,"6' 0""",195.0,2B,"Santiago De Cuba, Cuba",R/R
+642003,Cody Reed,15-04-1993,31.0,"6' 5""",230.0,P,"Memphis, USA",L/L
+679014,Oliver Mateo,07-11-1997,27.0,"6' 2""",170.0,P,"Barahona, Dominican Republic",R/R
+593372,Carlos Martinez,21-09-1991,33.0,"6' 0""",200.0,P,"Puerto Plata, Dominican Republic",R/R
+661270,Roel Santos,15-09-1987,37.0,"5' 6""",172.0,OF,"Niquero, Cuba",L/L
+643518,Jose Samayoa,09-03-1990,34.0,"6' 1""",200.0,P,"Hermosillo, Mexico",R/R
+510548,Jose Heberto Felix,28-06-1988,36.0,"5' 10""",200.0,C,"Guasave, Mexico",R/R
+543921,Joe Wieland,21-01-1990,34.0,"6' 2""",205.0,P,"Reno, USA",R/R
+572228,Luke Voit,13-02-1991,33.0,"6' 2""",258.0,1B,"Wildwood, USA",R/R
+669162,Rickey Ramirez,20-10-1996,28.0,"6' 0""",168.0,P,"Walnut Creek, USA",R/R
+592709,Evan Rutckyj,31-01-1992,32.0,"6' 5""",225.0,P,"Windsor, Canada",R/L
+668165,Jose Gaitan,23-02-1998,26.0,"6' 0""",176.0,OF,"Tijuana, Mexico",R/R
+587275,Alan Espinoza,30-01-1991,33.0,"5' 7""",165.0,C,"Ciudad Obregon, Mexico",R/R
+681856,Thomas Ponticelli,15-04-1997,27.0,"6' 1""",205.0,P,"West Hills, USA",R/R
+516631,Gustavo Nunez,08-02-1988,36.0,"5' 11""",189.0,SS,"San Pedro de Macoris, Dominican Republic",S/R
+554238,Carlos Franco,20-12-1991,32.0,"6' 3""",220.0,1B,"Bani, Dominican Republic",L/R
+547862,David Reyes,12-04-1990,34.0,"6' 0""",190.0,P,"Los Mochis, Mexico",R/R
+623985,Manuel Chavez,22-11-1993,30.0,"6' 3""",175.0,P,"Mexicali, Mexico",L/L
+603877,Fernando Flores,21-08-1991,33.0,"6' 1""",183.0,C,"Ciudad Obregon, Mexico",S/R
+683110,Miguel Ojeda Jr.,16-06-2000,24.0,"6' 0""",200.0,C,"Guaymas, Mexico",R/R
+621089,José Mesa Jr.,13-08-1993,31.0,"6' 4""",215.0,P,"Miramar, USA",R/R
+667918,Erick Casillas,01-01-1997,27.0,"5' 10""",187.0,P,"Guadalajara, Mexico",R/R
+642759,Julian Fernández,05-12-1995,28.0,"6' 6""",230.0,P,"Boca Chica, Dominican Republic",R/R
+465038,Alejandro Soto,13-02-1986,38.0,"6' 5""",230.0,P,"Huatabampo, Mexico",L/L
+473240,Jose Pina,02-11-1985,39.0,"6' 2""",150.0,P,"San Juan De la Maguana, Dominican Republic",R/R
+689161,Carlos Arellano,18-08-1998,26.0,"5' 10""",165.0,SS,"Calexico, USA",R/R
+622541,Malquin Canelo,05-09-1994,30.0,"5' 10""",165.0,SS,"San Cristobal, Dominican Republic",R/R
+606340,Edwin Espinal,27-01-1994,30.0,"6' 2""",250.0,1B,"Mao Valverde, Dominican Republic",R/R
+827459,Alejandro Trujillo,14-12-2001,22.0,"6' 2""",190.0,P,"Veracruz, Mexico",R/R
+607439,Herlis Rodriguez,10-06-1994,30.0,"6' 0""",170.0,OF,"Colon, Venezuela",L/L
+622738,Tito Polo,23-08-1994,30.0,"5' 10""",195.0,OF,"San Andres Islas, Colombia",R/R
+472505,Jesus Valdez,02-11-1984,40.0,"6' 2""",170.0,OF,"San Cristobal, Dominican Republic",R/R
+624933,Jose Luna,08-01-1993,31.0,"5' 11""",175.0,2B,"Los Mochis, Mexico",R/R
+692442,Ivan Chavez,29-08-2000,24.0,"6' 0""",183.0,IF,"Culiacan, Mexico",S/R
+624577,Yasiel Puig,07-12-1990,33.0,"6' 2""",240.0,OF,"Cienfuegos, Cuba",R/R
+642620,Olbis Parra,01-10-1994,30.0,"6' 2""",180.0,P,"Puerto Plata, Dominican Republic",R/R
+570488,Phillips Valdez,16-11-1991,32.0,"6' 2""",160.0,P,"San Pedro de Macoris, Dominican Republic",R/R
+623485,Ashton Goudeau,23-07-1992,32.0,"6' 6""",220.0,P,"Newport, USA",R/R
+469134,Esmil Rogers,14-08-1985,39.0,"6' 3""",200.0,P,"Santo Domingo, Dominican Republic",R/R
+691388,Jonas Garibay,07-06-2000,24.0,"6' 4""",202.0,P,"San Agustin, Mexico",R/R
+544827,Carlos Paulino,24-09-1989,35.0,"6' 0""",175.0,C,"Puerto Plata, Dominican Republic",R/R
+628709,Ofreidy Gómez,06-07-1995,29.0,"6' 3""",240.0,P,"Pueblo Viejo, Dominican Republic",R/R
+622047,Fernando Perez,13-09-1993,31.0,"6' 0""",210.0,2B,"Ensenada, Mexico",L/R
+626843,Yosmany Guerra,27-04-1983,41.0,"5' 10""",10.0,SS,"San Cristobal, Cuba",L/R
+660840,Jose Lizarraga,27-08-1997,27.0,"5' 10""",170.0,C,"Mazatlan, Mexico",R/R
+547982,Leonys Martin,06-03-1988,36.0,"6' 2""",200.0,OF,"Villa Clara, Cuba",L/R
+554241,Andy Otero,03-06-1992,32.0,"5' 9""",165.0,P,"David, Panama",L/L
+602345,Linder Castro,04-04-1991,33.0,"5' 10""",205.0,P,"Meredia, Mexico",R/R
+642721,Kelvin Gutiérrez,28-08-1994,30.0,"6' 2""",215.0,3B,"San Francisco De Macoris, Dominican Republic",R/R
+656431,Ti'Quan Forbes,26-08-1996,28.0,"6' 4""",225.0,3B,"Columbia, USA",R/R
+650654,Cristopher Molina,10-06-1997,27.0,"6' 3""",170.0,P,"Moca, Dominican Republic",R/R
+649228,Jorge Martinez,15-05-1985,39.0,"5' 11""",190.0,P,"Havana, CUB",R/R
+542669,Roman Mendez,25-07-1990,34.0,"6' 3""",245.0,P,"San Pedro de Macoris, Dominican Republic",R/R
+455378,Ali Solis,29-09-1987,37.0,"6' 0""",200.0,C,"Mexicali, Mexico",R/R
+668826,A.J. Candelario,17-12-1997,26.0,"6' 0""",165.0,P,"Bayonne, USA",R/R
+447638,Issmael Salas,25-07-1982,42.0,"5' 9""",200.0,2B,"Tijuana, Mexico",R/R
+683855,Carlos Viera,06-12-1988,35.0,"6' 4""",265.0,P,"Havana, Cuba",R/R
+547004,Rio Ruiz,22-05-1994,30.0,"6' 2""",220.0,2B,"Covina, USA",L/R
+542232,Jose Jose,21-07-1990,34.0,"6' 2""",175.0,P,"Santo Domingo, Dominican Republic",L/L
+673603,Luis Romero,23-04-1994,30.0,"6' 0""",202.0,P,"Guantanamo, Cuba",R/R
+477399,Jesse Castillo,03-03-1983,41.0,"6' 1""",205.0,3B,"Mexicali, Mexico",L/R
+639373,Gerson Bautista,31-05-1995,29.0,"6' 3""",195.0,P,"San Juan, Dominican Republic",R/R
+625068,Javier Rodriguez,01-05-1995,29.0,"6' 2""",165.0,P,"Magdalena de Kino, Mexico",L/L
+593700,Alen Hanson,22-10-1992,32.0,"6' 0""",170.0,2B,"La Romana, Dominican Republic",S/R
+532893,Ivan Salas,30-12-1990,33.0,"5' 11""",155.0,P,"Navojoa, Mexico",L/L
+501697,Jhan Mariñez,12-08-1988,36.0,"6' 1""",200.0,P,"Santo Domingo, Dominican Republic",R/R
+666968,Yurisbel Gracial,14-10-1985,39.0,"6' 1""",194.0,IF,"Guantanamo, Cuba",R/R
+464400,Henry Sosa,28-07-1985,39.0,"6' 1""",210.0,P,"El Seybo, Dominican Republic",R/R
+650958,Michael De León,14-01-1997,27.0,"6' 1""",160.0,3B,"Santo Domingo, Dominican Republic",S/R
+680768,Daniel Bies,09-04-1996,28.0,"6' 9""",245.0,P,"Woodinville, USA",R/R
+677965,Jimmy Kerrigan,16-03-1994,30.0,"6' 1""",215.0,OF,"Philadelphia, USA",S/R
+650520,Micker Adolfo,11-09-1996,28.0,"6' 4""",225.0,OF,"San Pedro de Macoris, Dominican Republic",R/R
+677647,Eddy Diaz,14-02-2000,24.0,"5' 10""",175.0,SS,"Matanzas, Cuba",R/R
+542413,Felipe Gonzalez,15-08-1991,33.0,"6' 1""",200.0,P,"Guadalupe, Mexico",R/R
+674455,Yeury Gervacio,01-07-1999,25.0,"6' 1""",168.0,P,"La Romana, Dominican Republic",L/L
+685694,Keven Lamas,08-11-1998,26.0,"6' 0""",180.0,IF,"Rosamarada, Mexico",R/R
+642007,Arturo Reyes,06-04-1992,32.0,"5' 11""",185.0,P,"Moses Lake, USA",R/R
+642488,Ademar Rifaela,20-11-1994,29.0,"5' 10""",180.0,OF,"Willemstad, Curacao",L/L
+594021,Alberth Martinez,23-01-1991,33.0,"6' 1""",170.0,OF,"San Felix, Venezuela",R/R
+692978,Jose Camacho,06-07-1995,29.0,"6' 4""",215.0,3B,"Chicago, USA",R/R
+690158,Juan Mateo,09-09-1992,32.0,"5' 11""",190.0,P,"Athens, USA",R/R
+806112,Kevin Davis,07-05-1999,25.0,"6' 9""",280.0,P,"Homer Glen, USA",R/R
+500869,Emmanuel Avila,26-11-1988,35.0,"5' 11""",205.0,2B,"Los Mochis, Mexico",L/R
+690909,Daniel Cruz,08-09-1999,25.0,"5' 9""",161.0,P,"Saltillo, Mexico",R/R
+663453,Hazahel Quijada,18-09-1997,27.0,"6' 2""",185.0,P,"San Bernadino, USA",L/L
+664102,Adam Hofacket,18-02-1994,30.0,"6' 1""",195.0,P,"Riverside, USA",R/R
+606143,Alejandro Mejia,10-03-1993,31.0,"6' 4""",195.0,3B,"Santo Domingo, Dominican Republic",R/R
+664739,Alan Garcia,31-01-1997,27.0,"6' 0""",220.0,OF,"Nogales, USA",L/L
+617918,Marco Chicuate,14-07-1992,32.0,"6' 0""",195.0,C,"Los Mochis, Mexico",R/R
+660857,Yorman Rodriguez,23-07-1997,27.0,"5' 8""",160.0,C,"Maracay, Venezuela",R/R
+606625,Reyes Moronta,06-01-1993,31.0,"5' 10""",265.0,P,"Santiago, Dominican Republic",R/R
+653414,Luis Medina,14-02-1995,29.0,"5' 9""",185.0,SS,"Guasave, Mexico",R/R
+823976,Ivan Morales,14-04-2001,23.0,"5' 8""",183.0,C,"Tepic, Mexico",R/R
+670138,Max Kuhns,11-08-1994,30.0,"6' 2""",209.0,P,"Parker, USA",R/R
+660674,Alberto Guerrero,13-12-1997,26.0,"6' 4""",267.0,P,"Pacora, Panama",R/R
+685478,Yordan Nodal,16-07-2002,22.0,"6' 3""",195.0,P,"Cienfuegos, Cuba",L/L
+692798,Italo Motta,07-08-1998,26.0,"5' 11""",185.0,2B,"Mazaltan, Mexico",L/R
+673455,Lazaro Blanco,23-02-1986,38.0,"6' 3""",200.0,P,"Yara, Granma, Cuba",R/R
+517008,Alex Colomé,31-12-1988,35.0,"6' 2""",240.0,P,"Santo Domingo, Dominican Republic",R/R
+681817,Zach Mort,22-05-1997,27.0,"6' 0""",214.0,P,"Chesterfield, USA",R/R
+641521,Edwin Díaz,25-08-1995,29.0,"6' 1""",223.0,SS,"Vega Alta, Puerto Rico",R/R
+641561,Johneshwy Fargas,15-12-1994,29.0,"6' 1""",180.0,OF,"Trujillo Alto, Puerto Rico",R/R
+500610,Deolis Guerra,17-04-1989,35.0,"6' 5""",245.0,P,"San Felix, Venezuela",R/R
+595263,Mickey Jannis,16-12-1987,36.0,"5' 9""",195.0,P,"Carson City, USA",R/R
+616405,Mario Meza,24-11-1990,33.0,"6' 3""",200.0,P,"Culiacan, Mexico",R/R
+616569,Diego Madero,17-01-1992,32.0,"5' 7""",163.0,SS,"Hermosillo, Mexico",R/R
+679589,Fernando Villegas,28-06-1998,26.0,"5' 10""",176.0,OF,"Saltillo, Mexico",R/R
+625329,Henry Urrutia,13-02-1987,37.0,"6' 5""",200.0,OF,"Las Tunas, Cuba",L/R
+516769,Jenrry Mejia,11-10-1989,35.0,"6' 0""",205.0,P,"Tabara Arriba, Dominican Republic",R/R
+703721,Ivan Izaguirre,16-09-2001,23.0,"5' 8""",192.0,P,"Guasave, Mexico",R/R
+543548,Tommy Milone,16-02-1987,37.0,"6' 0""",215.0,P,"Saugus, USA",L/L
+622256,Patrick Weigel,08-07-1994,30.0,"6' 6""",240.0,P,"Thousand Oaks, USA",R/R
+518542,Juan Centeno,16-11-1989,34.0,"5' 9""",195.0,C,"Arecibo, Puerto Rico",L/R
+468504,Jhoulys Chacín,07-01-1988,36.0,"6' 3""",215.0,P,"Maracaibo, Venezuela",R/R
+553902,Willians Astudillo,14-10-1991,33.0,"5' 9""",225.0,3B,"Barcelona, Venezuela",R/R
+606213,Yermín Mercedes,14-02-1993,31.0,"5' 11""",245.0,,"La Romana, Dominican Republic",R/R
+605328,Mitch Lambson,20-07-1990,34.0,"6' 1""",205.0,P,"Montclair, USA",L/L
+472551,Fernando Abad,17-12-1985,38.0,"6' 2""",235.0,P,"La Romana, Dominican Republic",L/L
+703716,Anibal Cervantes,17-12-1996,27.0,"6' 3""",187.0,P,"Hermosillo, Mexico",R/R
+622066,Tyler Alexander,22-09-1991,33.0,"6' 1""",180.0,P,"Tampa, USA",L/L
+501886,Derrick Loop,11-12-1983,40.0,"6' 3""",220.0,P,"Corona, USA",R/L
+806157,Christian Morales,27-07-2001,23.0,"6' 0""",187.0,OF,"Saltillo, Mexico",R/R
+668992,Missael Rivera,03-03-1996,28.0,"5' 10""",168.0,IF,"Guasave, Mexico",L/R
+622270,Alex D. Mejia,18-01-1991,33.0,"6' 1""",200.0,2B,"Sylmar, USA",R/R
+571776,Kurt Heyer,23-01-1991,33.0,"6' 2""",185.0,P,"Huntington Beach, USA",L/R
+501731,Rainel Rosario,29-03-1989,35.0,"6' 1""",190.0,OF,"Santo Domingo, Dominican Republic",R/R
+502253,Alex Sanabia,08-09-1988,36.0,"6' 2""",210.0,P,"San Diego, USA",R/R
+591971,Breyvic Valera,08-01-1992,32.0,"5' 11""",190.0,OF,"Montalban, Venezuela",S/R
+608384,Nick Williams,08-09-1993,31.0,"6' 3""",215.0,OF,"Galveston, USA",L/L
+683124,Fernando Olguin,04-03-2001,23.0,"5' 9""",155.0,P,"Tijuana, Mexico",R/R
+573669,Aderlin Rodríguez,18-11-1991,32.0,"6' 3""",210.0,1B,"Santo Domingo, Dominican Republic",R/R
+661332,Luke Westphal,14-06-1989,35.0,"6' 3""",230.0,P,"Clintonville, USA",L/L
+665455,Isaac Rodriguez,03-03-1991,33.0,"5' 11""",180.0,2B,"Hermosillo, Mexico",R/R
+824003,Luis Amador,15-07-2003,21.0,"5' 9""",190.0,C,"Los Cabos, Mexico",R/R
+600965,Ricardo Rodríguez,31-08-1992,32.0,"6' 2""",220.0,P,"Maracay, Venezuela",R/R
+621248,Ralph Garza Jr.,06-04-1994,30.0,"6' 2""",220.0,P,"Edinburg, USA",R/R
+622097,Jake Thompson,31-01-1994,30.0,"6' 4""",225.0,P,"Dallas, USA",R/R
+641995,Roel Ramírez,26-05-1995,29.0,"6' 0""",235.0,P,"Laredo, USA",R/R
+606131,Luis Perdomo,09-05-1993,31.0,"6' 2""",218.0,P,"Santo Domingo, Dominican Republic",R/R
+543875,Niko Vasquez,26-02-1989,35.0,"6' 0""",170.0,3B,"Oxnard, USA",R/R
+676941,Saul Garza,09-04-1998,26.0,"6' 1""",227.0,C,"McAllen, USA",R/R
+668663,Tres Barrera,15-09-1994,30.0,"6' 0""",215.0,C,"Eagle Pass, USA",R/R
+611093,Silvino Bracho,17-07-1992,32.0,"5' 10""",190.0,P,"Maracaibo, Venezuela",R/R
+684551,Jairus Richards,30-01-1997,27.0,"6' 0""",165.0,OF,"Seattle, USA",L/R
+573127,Zac Rosscup,09-06-1988,36.0,"6' 2""",220.0,P,"Clackamas, USA",R/L
+518435,Manny Barreda,08-10-1988,36.0,"5' 11""",195.0,P,"Prescott, USA",R/R
+608686,Jack Mayfield,30-09-1990,34.0,"5' 11""",190.0,2B,"Del Rio, USA",R/R
+571431,Matt Adams,31-08-1988,36.0,"6' 3""",263.0,1B,"Philipsburg, USA",L/R
+605612,Harold Castro,30-11-1993,30.0,"5' 10""",195.0,2B,"Caracas, Venezuela",L/R
+516809,Junior Lake,27-03-1990,34.0,"6' 2""",230.0,OF,"San Pedro de Macoris, Dominican Republic",R/R
+621103,Teddy Stankiewicz,25-11-1993,30.0,"6' 4""",215.0,P,"Keller, USA",R/R
+571616,Matt Dermody,04-07-1990,34.0,"6' 5""",211.0,P,"Norwalk, USA",R/L
+623441,Jared Wilson,26-04-1990,34.0,"6' 4""",210.0,P,"Anaheim, USA",R/R
+656252,Bobby Bradley,29-05-1996,28.0,"6' 1""",225.0,1B,"Chicago, USA",L/R
+664823,David Gutierrez,18-08-1993,31.0,"5' 9""",198.0,P,"Guamuchil, Mexico",R/R
+676362,Gabriel Ponce,29-04-1999,25.0,"6' 2""",205.0,P,"San Luis, USA",R/R
+514919,Jesus Pirela,13-03-1989,35.0,"6' 0""",155.0,P,"Maracaibo, Venezuela",R/R
+666452,Eduardo Diaz,19-07-1997,27.0,"6' 2""",175.0,OF,"Valle de la Pascua, Venezuela",R/R
+641323,Luis Aviles Jr.,16-03-1995,29.0,"6' 2""",210.0,SS,"Miami, USA",R/R
+689747,Antonio Frias,23-07-1997,27.0,"5' 9""",200.0,P,"Montgomery, USA",L/L
+800435,Diego Dominguez,02-07-2004,20.0,"6' 0""",178.0,P,"Heroica Zitacuaro, MEX",R/R
+702090,Edgar Bravo,03-08-2000,24.0,"6' 1""",180.0,IF,"Boca del Rio, Mexico",R/R
+515189,Japhet Amador,19-01-1987,37.0,"6' 4""",310.0,1B,"Mulege, Mexico",R/R
+592481,Jared Lakind,09-03-1992,32.0,"6' 2""",205.0,P,"Cypress, USA",L/L
+544727,Jeurys Familia,10-10-1989,35.0,"6' 3""",240.0,P,"Santo Domingo, Dominican Republic",R/R
+670625,Steven Moyers,27-09-1993,31.0,"6' 0""",190.0,P,"Sharon, USA",R/L
+612797,Erick Leal,17-03-1995,29.0,"6' 3""",180.0,P,"Carabobo, Venezuela",R/R
+593993,José Briceño,19-09-1992,32.0,"6' 1""",225.0,C,"Caracas, Venezuela",R/R
+621446,Lewis Brinson,08-05-1994,30.0,"6' 5""",212.0,OF,"Fort Lauderdale, USA",R/R
+674485,Mario Morales,13-10-1993,31.0,"5' 8""",198.0,P,"Riverside, USA",R/R
+641924,Jacob Nottingham,03-04-1995,29.0,"6' 2""",220.0,C,"Redlands, USA",R/R
+618150,Juan Macias,12-06-1994,30.0,"5' 7""",171.0,OF,"Saltillo, Mexico",L/R
+621445,Courtney Hawkins,12-11-1993,30.0,"6' 3""",245.0,OF,"Corpus Christi, USA",R/R
+622774,José Manuel Fernández,13-02-1993,31.0,"6' 3""",215.0,P,"Mao, Dominican Republic",L/L
+527043,Jefry Marte,21-06-1991,33.0,"6' 1""",220.0,1B,"La Romana, Dominican Republic",R/R
+666464,Jerar Encarnacion,22-10-1997,27.0,"6' 4""",250.0,OF,"Bayaguana, Dominican Republic",R/R
+665776,Pedro Castellanos,11-12-1997,26.0,"6' 3""",244.0,1B,"Carora, Venezuela",R/R
+621034,Melvin Mercedes,13-01-1992,32.0,"5' 6""",170.0,IF,"New York, USA",S/R
+600524,Renato Núñez,04-04-1994,30.0,"6' 1""",220.0,1B,"Valencia, Venezuela",R/R
+688843,Jacques Pucheu,01-01-1997,27.0,"6' 2""",210.0,P,"Gulfport, USA",L/L
+622747,Eduardo Vera,03-07-1994,30.0,"6' 2""",195.0,P,"Merida, Mexico",R/R
+802559,Victor Morales,10-10-2001,23.0,"5' 10""",165.0,P,"Mexico City, Mexico",R/R
+542513,Tomás Telis,18-06-1991,33.0,"5' 8""",220.0,C,"El Tigre, Venezuela",S/R
+622758,Angel Aguilar,13-06-1995,29.0,"6' 0""",170.0,3B,"Barinas, Venezuela",R/R
+641576,Bernardo Flores Jr.,23-08-1995,29.0,"6' 4""",190.0,P,"Baldwin Park, USA",L/L
+570489,Arismendy Alcántara,29-10-1991,33.0,"5' 10""",170.0,2B,"Santo Domingo, Dominican Republic",S/R
+585132,Raul Carrillo,20-11-1991,32.0,"6' 1""",185.0,P,"Guadalajara, Mexico",R/R
+624221,Carlos Figueroa,10-04-1992,32.0,"5' 8""",220.0,OF,"Hermosillo, Mexico",S/R
+667904,Jose Isidro Marquez,17-06-1994,30.0,"5' 9""",171.0,P,"Navajoa, Mexico",R/R
+608746,Cesilio Pimentel,05-01-1993,31.0,"6' 2""",185.0,P,"San Cristobal, Dominican Republic",L/L
+502515,Raul Barron,04-04-1986,38.0,"5' 10""",180.0,P,"Glendale, USA",S/R
+656029,Alexis Wilson,13-08-1996,28.0,"5' 10""",200.0,C,"Los Mochis, Mexico",R/R
+655212,Manuel Orduno,21-01-1996,28.0,"5' 10""",183.0,OF,"Ciudad Obregon, Mexico",R/R
+823999,Jesse Galindo,13-03-1998,26.0,"6' 0""",194.0,P,"Los Angeles, USA",R/R
+652669,Angel Erro,08-02-1995,29.0,"5' 11""",175.0,3B,"Navajoa, Mexico",R/R
+685692,Vicente Valenzuela,01-06-2001,23.0,"5' 9""",143.0,P,"Los Mochis, Mexico",R/R
+665105,Cameron Gann,08-10-1992,32.0,"6' 0""",203.0,P,"Crandall, USA",R/R
+683114,Fernando Burgueno,29-08-1998,26.0,"5' 10""",183.0,P,"Mazatlan, Mexico",R/R
+811435,Randy Trejo,18-06-2003,21.0,"5' 6""",159.0,IF,"Cancun, Mexico",R/R
+444876,Alcides Escobar,16-12-1986,37.0,"6' 1""",205.0,SS,"La Sabana, Venezuela",R/R
+680365,German Revilla,09-10-2000,24.0,"5' 11""",176.0,C,"Magdalena de Kino, Mexico",R/R
+656077,Félix Paulino,24-03-1995,29.0,"6' 1""",185.0,P,"Sabana Grande de Palenque, Dominican Republic",R/R
+672382,Luis Moreno,03-08-1998,26.0,"6' 2""",174.0,P,"Santa Rosa, Colombia",R/R
+679973,Jesus Valles,15-12-1997,26.0,"6' 3""",178.0,P,"Valencia, Venezuela",R/R
+542587,Elvis Araujo,15-07-1991,33.0,"6' 7""",275.0,P,"Maracaibo, Venezuela",L/L
+824416,Leonardo Urguelles,09-01-1993,31.0,"5' 11""",194.0,OF,"Isla de la Juventad, Cuba",R/R
+698880,Juan Haro,29-01-2003,21.0,"5' 8""",171.0,C,,R/R
+681709,Rigoberto Borbolla,20-08-2001,23.0,"6' 2""",170.0,P,"Los Mochis, Mexico",L/L
+643271,Narciso Crook,12-07-1995,29.0,"6' 2""",229.0,OF,"Nagua, Dominican Republic",R/R
+687455,Juan Cossio,10-01-1999,25.0,"6' 0""",194.0,P,"La Paz, Mexico",R/R
+665129,Gunnar Kines,25-07-1993,31.0,"6' 3""",210.0,P,"Conway, USA",L/L
+662972,Manuel Valdez,18-05-1996,28.0,"5' 8""",176.0,P,"Mexicali, Mexico",L/L
+660354,Brian Sanchez,18-04-1996,28.0,"6' 2""",180.0,OF,"Santo Domingo Este, Dominican Republic",R/R
+573087,Noah Perio,14-11-1991,32.0,"6' 0""",170.0,2B,"Hayward, USA",L/R
+676443,Demetrius Sims,14-07-1995,29.0,"6' 3""",220.0,SS,"Ann Arbor, USA",R/R
+660589,Jeffry Nino,26-09-1996,28.0,"6' 4""",170.0,P,"Barranquilla, Colombia",R/R
+692750,Omar Sainz,31-01-1994,30.0,"6' 2""",194.0,P,"Empalme, Mexico",L/L
+570639,Yefri Pérez,24-02-1991,33.0,"5' 11""",170.0,SS,"Bani, Dominican Republic",S/R
+622698,Sandber Pimentel,12-09-1994,30.0,"6' 3""",220.0,OF,"Santo Domingo, Dominican Republic",L/L
+674706,Alan Lopez,03-01-1996,28.0,"5' 10""",177.0,1B,"Guasave, Mexico",L/R
+500279,Jonathan Vargas,29-05-1989,35.0,"6' 2""",150.0,P,"Acarigua, Venezuela",L/L
+820866,Javier Mirabal,19-01-1997,27.0,"6' 3""",185.0,P,"Villa Clara, Cuba",R/R
+506693,Henderson Alvarez III,18-04-1990,34.0,"6' 0""",205.0,P,"Valencia, Venezuela",R/R
+815334,Jesus Guerrero,21-05-2007,17.0,"5' 10""",180.0,C,"Los Mochis, Mexico",R/R
+676639,Ryan Grotjohn,25-04-1995,29.0,"6' 2""",175.0,OF,"Bakersfield, USA",L/R
+621141,Walker Lockett,03-05-1994,30.0,"6' 5""",225.0,P,"Jacksonville, USA",R/R
+641506,Adrian De Horta,13-03-1995,29.0,"6' 3""",185.0,P,"La Puente, USA",R/R
+501644,Carlos Martinez,22-09-1988,36.0,"5' 11""",182.0,P,"San Pedro De Macoris, Dominican Republic",R/R
+692270,Antonio Castaneda,10-09-2001,23.0,"5' 9""",182.0,OF,"Mexicali, Mexico",L/L
+824002,Ricardo Rincon,07-04-1998,26.0,"5' 9""",191.0,1B,"Cordoba, Mexico",L/L
+678640,Carlos Betancourt,27-03-2001,23.0,"6' 1""",160.0,P,"Cumana, Venezuela",R/R
+592769,D.J. Snelten,29-05-1992,32.0,"6' 6""",240.0,P,"Lake Forest, USA",L/L
+596143,Luis Sardinas,16-05-1993,31.0,"6' 1""",180.0,SS,"Bolivar, Venezuela",S/R
+622603,Carlos Castro,24-05-1994,30.0,"6' 1""",195.0,C,"La Romana, Dominican Republic",R/R
+600853,Jose Adames,17-01-1993,31.0,"6' 2""",165.0,P,"La Romana, Dominican Republic",R/R
+630034,David Rodríguez,25-02-1996,28.0,"6' 1""",215.0,C,"Barcelona, Venezuela",R/R
+616404,Edson Garcia,11-09-1992,32.0,"5' 8""",170.0,OF,"Puebla, Mexico",S/R
+802572,Antonio Monroy,26-06-1997,27.0,"5' 7""",199.0,,"Los Angeles, USA",L/R
+811473,Joshua Guzman,13-07-1998,26.0,"6' 1""",198.0,P,"Los Angeles, USA",R/R
+826637,Takeru Ohashi,16-05-2001,23.0,"5' 8""",176.0,OF,"Tokyo, Japan",L/L
+656083,Harol González,02-03-1995,29.0,"6' 0""",160.0,P,"Santo Domingo, Dominican Republic",R/R
+666007,Deyni Olivero,07-01-1998,26.0,"6' 1""",165.0,P,"Santo Domingo, Dominican Republic",R/R
+828269,D.J. Sharabi,07-03-1992,32.0,"6' 0""",220.0,P,"San Mateo, USA",R/R
+699136,Heber Villalobos,24-09-2003,21.0,"5' 11""",180.0,C,"San Quentin, Mexico",R/R
+622356,Bryant Flete,31-01-1993,31.0,"5' 10""",146.0,2B,"Cumairebo, Venezuela",L/R
+660671,Yorvin Pantoja,22-09-1997,27.0,"5' 11""",175.0,P,"Caruao, Venezuela",L/L
+634323,Jorge Quinones,16-09-1994,30.0,"5' 9""",161.0,P,"Nogales, Mexico",L/L
+828359,Johan Castillo,26-04-2000,24.0,"6' 2""",190.0,P,,L/L
+657705,Manny Olloque,11-05-1996,28.0,"6' 2""",165.0,3B,"Torrance, USA",R/R
+672666,Adolfo Ramirez,01-06-1999,25.0,"6' 0""",165.0,P,"Heroica Mulege, Mexico",R/R
+684118,Victor Buelna,04-04-1999,25.0,"5' 11""",165.0,P,"Los Mochis, Mexico",R/R
+642856,Fabian Anguamea,21-12-1993,30.0,"6' 2""",198.0,P,"Ciudad Obregon, Mexico",R/R
+665854,Luis Oviedo,15-05-1999,25.0,"6' 5""",250.0,P,"Barquisimeto, Venezuela",R/R
+690345,Pedro Garcia,21-03-1995,29.0,"5' 11""",220.0,P,"Maracaibo, Venezuela",R/R
+664482,Gonzalo Ochoa,11-04-1993,31.0,"6' 2""",201.0,P,"Guadalupe, Mexico",R/R
+660630,Romer Cuadrado,12-09-1997,27.0,"6' 4""",185.0,OF,"Maturin, Venezuela",R/R
+571685,Anthony García,04-01-1992,32.0,"5' 11""",220.0,OF,"Carolina, Puerto Rico",R/R
+517593,Danny Salazar,11-01-1990,34.0,"6' 0""",195.0,P,"Santo Domingo, Dominican Republic",R/R
+806327,Hector Sepulveda,04-06-1996,28.0,"6' 1""",194.0,P,"Tuscon, USA",R/R
+592329,Jason García,21-11-1992,31.0,"6' 0""",185.0,P,"Bronx, USA",R/R
+623412,Geoff Broussard,21-09-1990,34.0,"6' 0""",185.0,P,"Montclair, USA",R/R
+622168,Yairo Muñoz,23-01-1995,29.0,"5' 11""",200.0,3B,"Nagua, Dominican Republic",R/R
+573627,Kennys Vargas,01-08-1990,34.0,"6' 5""",290.0,IF,"Canovanas, Puerto Rico",S/R
+606281,Danry Vasquez,08-01-1994,30.0,"6' 3""",190.0,OF,"Ocumare Del Tuy, Venezuela",L/R
+516472,Francisco Arcia,14-09-1989,35.0,"5' 11""",200.0,C,"Maiquetia, Venezuela",L/R
+642496,Emilio Vargas,12-08-1996,28.0,"6' 3""",220.0,P,"Moca, Dominican Republic",R/R
+657598,Cade Gotta,01-08-1991,33.0,"6' 4""",205.0,OF,"San Diego, USA",R/R
+641838,Kevin McCarthy,22-02-1992,32.0,"6' 3""",210.0,P,"Rockville Centre, USA",R/R
+518770,Alonzo Harris,16-01-1989,35.0,"5' 11""",165.0,OF,"McComb, USA",R/R
+542419,Ali Castillo,19-06-1989,35.0,"5' 9""",180.0,2B,"Maracaibo, Venezuela",R/R
+824051,Eduardo Luna,19-05-2004,20.0,"5' 10""",180.0,C,"Monterrey, Mexico",S/R
+825580,Marcos Valenzuela,25-04-2003,21.0,"5' 11""",180.0,SS,"Guasave, Mexico",L/R
+573612,Alejandro Barraza,25-10-1990,34.0,"6' 1""",205.0,P,"Guymas, Mexico",R/R
+642686,Jose Martinez,15-08-1996,28.0,"5' 10""",185.0,SS,"Machiques de Perija, Venezuela",S/R
+677676,Diosmerky Taveras,23-09-1999,25.0,"6' 5""",256.0,P,"Mao, Dominican Republic",R/R
+476594,Robert Stock,21-11-1989,34.0,"6' 1""",260.0,P,"Bellevue, USA",L/R
+802591,Nate Antone,15-07-1991,33.0,"6' 4""",210.0,P,"Allegheny, USA",R/R
+642511,Arnaldo Hernandez,09-02-1996,28.0,"6' 0""",175.0,P,"San Felix, Venezuela",R/R
+666922,Ryan Aguilar,11-09-1994,30.0,"6' 2""",168.0,OF,"Yorba Linda, USA",L/L
+664785,Tom Hackimer,28-06-1994,30.0,"5' 11""",195.0,P,"New Hyde Park, USA",R/R
+571871,Ian Krol,09-05-1991,33.0,"6' 1""",210.0,P,"Hinsdale, USA",L/L
+605378,Kevin Medrano,21-05-1990,34.0,"6' 1""",155.0,2B,"Lee's Summit, USA",L/R
+663801,Clark Cota,06-10-1996,28.0,"6' 2""",230.0,P,"Fresno, USA",R/R
+675842,Emilker Guzman,10-02-1999,25.0,"5' 10""",185.0,P,"Caracas, Venezuela",R/R
+516949,Héctor Sánchez,17-11-1989,34.0,"6' 0""",220.0,C,"Maracay, Venezuela",S/R
+815773,Oscar Cuello,29-07-2002,22.0,"5' 11""",180.0,P,"Laredo, USA",L/L
+448855,Junior Guerra,16-01-1985,39.0,"6' 0""",235.0,P,"San Felix, VEN",R/R
+643354,Donnie Hart,06-09-1990,34.0,"5' 11""",180.0,P,"Bedford, USA",L/L
+628450,Yadiel Hernandez,09-10-1987,37.0,"5' 9""",185.0,OF,"Matanzas, Cuba",L/R
+663778,Sam Bordner,16-10-1996,28.0,"6' 5""",228.0,P,"Columbus, USA",R/R
+664944,Cam Vieaux,05-12-1993,30.0,"6' 3""",200.0,P,"Novi, USA",L/L
+605309,Keone Kela,16-04-1993,31.0,"6' 1""",220.0,P,"Los Angeles, USA",R/R
+682200,Austin Drury,13-08-1997,27.0,"5' 11""",190.0,P,"Land O'Lakes, USA",L/L
+500208,Yangervis Solarte,03-07-1987,37.0,"5' 11""",220.0,3B,"Valencia, Venezuela",S/R
+827369,Carlos Garcia,19-03-2007,17.0,"5' 9""",174.0,C,"Playas de Rosarito, Mexico",L/R
+827370,Iker Redona,05-12-2007,16.0,"5' 11""",170.0,P,"Mulege, Mexico",L/L
+517448,Wilfredo Boscan,26-10-1989,35.0,"6' 2""",228.0,P,"Maracaibo, Venezuela",R/R
+660513,Gleyvin Pineda,19-08-1996,28.0,"5' 11""",160.0,3B,"Azua, Dominican Republic",L/R
+660875,Jesús Reyes,21-02-1993,31.0,"6' 2""",180.0,P,"Santo Domingo, Dominican Republic",R/R
+571531,Sergio Burruel,22-07-1991,33.0,"5' 11""",210.0,C,"Phoenix, USA",L/R
+605636,Henry Centeno,24-08-1994,30.0,"6' 2""",200.0,P,"Araya Sucre, Venezuela",R/R
+620978,Liarvis Breto,10-04-1993,31.0,"5' 11""",175.0,P,"Carabobo, Venezuela",L/L
+692941,Hector Mora,21-12-2002,21.0,"5' 9""",178.0,IF,"Veracruz, Mexico",R/R
+489295,Brian Schlitter,21-12-1985,38.0,"6' 3""",238.0,P,"Oak Park, USA",R/R
+616571,Rogelio Martinez,22-09-1991,33.0,"5' 10""",170.0,P,"Lagos de Moreno, Mexico",R/R
+642487,Jesus Martinez,07-05-1995,29.0,"5' 10""",165.0,OF,"Santo Domingo Centro, Dominican Republic",L/L
+660689,Angel Padron,16-09-1997,27.0,"5' 11""",175.0,P,"San Cristobal, Venezuela",L/L
+678405,Hansen Lopez,03-07-2000,24.0,"5' 9""",170.0,C,"Culiacan Rosales, Mexico",R/R
+653245,Kristian Delgado,19-07-1993,31.0,"5' 7""",173.0,3B,"Mexicali, Mexico",R/R
+626929,Lewis Thorpe,23-11-1995,28.0,"6' 1""",218.0,P,"Melbourne, Australia",R/L
+600951,Leobaldo Piña,29-06-1994,30.0,"6' 2""",160.0,IF,"Turmero, Venezuela",R/R
+680029,Oziel Flores,12-09-1997,27.0,"5' 6""",160.0,IF,"Guadalajara, Mexico",S/R
+653252,Sasagi Sanchez,03-06-1994,30.0,"5' 9""",176.0,P,"Mazatlan, Mexico",R/R
+590271,Sebastián Elizalde,20-11-1991,32.0,"6' 0""",195.0,OF,"Guaymas, Mexico",L/R
+622739,Ariel Gracia,17-09-1994,30.0,"5' 11""",173.0,P,"Ciudad Obregon, Mexico",L/L
+824627,Manny Garcia,05-12-1997,26.0,"6' 0""",202.0,OF,"Caguas, Puerto Rico",R/R
+672378,Carlos Pacheco,02-04-1999,25.0,"5' 11""",195.0,OF,"Saltillo, Mexico",R/R
+668155,Alberto Leyva,29-11-1996,27.0,"6' 0""",200.0,P,"Ciudad Obregon, Mexico",R/R
+650508,Carlos Herrera,23-09-1996,28.0,"6' 0""",145.0,SS,"Caracas, Venezuela",L/R
+681669,Alejandro Rivero,08-06-1997,27.0,"6' 2""",200.0,SS,"Matanzas, Cuba",R/R
+664475,Edgar Torres,09-04-1996,28.0,"6' 1""",201.0,P,"Puebla, Mexico",L/L
+656695,J.J. Matijevic,14-11-1995,28.0,"6' 0""",206.0,1B,"Latrobe, USA",L/R
+593432,Jesus Loya,15-06-1992,32.0,"5' 11""",175.0,OF,"Chihuahua, Mexico",L/R
+542360,Porfirio Lopez,24-03-1990,34.0,"5' 10""",200.0,P,"La Vega, Dominican Republic",L/L
+511648,Antonio Garzon,07-03-1985,39.0,"5' 9""",179.0,P,"Villa Union, Mexico",L/L
+676002,Juan Carlos Negret,19-06-1999,25.0,"5' 9""",190.0,OF,"La Habana, Cuba",R/R
+809614,Pablo Cortes,16-07-1999,25.0,"6' 2""",245.0,P,"Chihuahua, Mexico",R/R
+593163,Carlos Navas,13-08-1992,32.0,"6' 0""",215.0,P,"Puerto Cabello, Venezuela",R/R
+644358,Samuel Adames,27-09-1994,30.0,"6' 4""",190.0,P,"Azua, Dominican Republic",R/R
+542609,Enrique Burgos,23-11-1990,33.0,"6' 3""",255.0,P,"Panama City, Panama",R/R
+677593,Luis García,01-10-2000,24.0,"5' 11""",195.0,SS,"San Pedro de Macoris, Dominican Republic",S/R
+616615,Juan Rodriguez,09-05-1993,31.0,"5' 10""",180.0,P,"Leon, Mexico",R/R
+642664,Wendolyn Bautista,27-03-1993,31.0,"6' 0""",185.0,P,"Yamasa, Dominican Republic",R/R
+606477,Aneury Tavárez,14-04-1992,32.0,"5' 9""",175.0,OF,"Barrio Obrero, Dominican Republic",L/R
+683478,Nolberto Henriquez,16-10-1999,25.0,"6' 4""",170.0,P,"La Vega, Dominican Republic",R/R
+671790,Ronald Bolaños,23-08-1996,28.0,"6' 2""",230.0,P,"Santa Cruz del Norte, Cuba",R/R
+806519,Anthony Boix,05-08-1999,25.0,"6' 2""",210.0,P,"Hialeah, USA",R/R
+678581,Karlo Seijas,06-09-2000,24.0,"6' 1""",215.0,P,"San Mateo, Venezuela",R/R
+701033,Jorge Rivera,09-11-2000,23.0,"5' 6""",147.0,IF,"Los Mochis, Mexico",R/R
+542328,Hans Wilson,08-09-1990,34.0,"5' 10""",205.0,C,"Obregon, Mexico",R/R
+823998,Carlos Gastelum Jr.,05-09-2002,22.0,"5' 7""",220.0,P,"Huatabampo, Mexico",R/R
+666802,Joel Cesar,26-01-1996,28.0,"5' 11""",191.0,P,"Altamira, Dominican Republic",R/R
+686124,Eric Ezersky,10-01-1994,30.0,"6' 0""",175.0,P,"Bellmore, USA",R/R
+700587,Luis Marquez,29-11-1997,26.0,"5' 9""",262.0,P,"Huatabampo, Mexico",L/L
+682503,Felix Minjarez,13-09-1996,28.0,"6' 3""",205.0,P,"Riverside, USA",R/R
+519263,A.J. Schugel,27-06-1989,35.0,"6' 0""",195.0,P,"Winter Haven, USA",R/R
+674491,Ricky Rodriguez,21-03-1993,31.0,"6' 0""",216.0,1B,"Los Angeles, USA",R/R
+814424,Uriel Ferman,13-10-2003,21.0,"6' 1""",179.0,P,"Veracruz, Mexico",R/R
+602105,Elvin Liriano,17-10-1992,32.0,"6' 3""",190.0,P,"San Cristobal, Dominican Republic",L/L
+549930,Alberto Carreon,01-05-1988,36.0,"5' 9""",200.0,SS,"Guadalajara, Mexico",R/R
+670103,Raymond Burgos,29-11-1998,25.0,"6' 5""",170.0,P,"Luquillo, Puerto Rico",L/L
+650380,Roldani Baldwin,16-03-1996,28.0,"5' 11""",211.0,C,"Puerto Plata, Dominican Republic",R/R
+542278,Fredy Quintero,29-12-1987,36.0,"6' 0""",195.0,P,"Los Mochis, Mexico",R/R
+592411,Ben Holmes,12-09-1991,33.0,"6' 1""",195.0,P,"Clackamas, USA",L/L
+663463,Jio Orozco,15-08-1997,27.0,"6' 1""",210.0,P,"Tucson, USA",R/R
+584171,Hector Velázquez,26-11-1988,35.0,"6' 0""",218.0,P,"Ciudad Obregon, Mexico",R/R
+605504,Dillon Thomas,10-12-1992,31.0,"6' 1""",215.0,OF,"Houston, USA",L/L
+650513,Manuel Melendez,10-01-1997,27.0,"5' 11""",165.0,OF,"Barquisimeto, Venezuela",L/L
+661408,Luis Perez,03-05-1995,29.0,"6' 0""",175.0,P,"Palenque, Dominican Republic",R/R
+815752,Ivan Lozano,09-01-2005,19.0,"5' 8""",172.0,IF,"Zumpango, Mexico",L/R
+451713,Carlos Peguero,22-02-1987,37.0,"6' 5""",260.0,OF,"Hondo Valle, Dominican Republic",L/L
+599096,Dilson Herrera,03-03-1994,30.0,"5' 10""",210.0,2B,"Cartagena, Colombia",R/R
+692015,Jose Hernandez,10-12-2002,21.0,"6' 0""",160.0,P,"Monterrey, Mexico",R/R
+571736,Brooks Hall,26-06-1990,34.0,"6' 5""",235.0,P,"Anderson, USA",R/R
+517369,José Pirela,21-11-1989,34.0,"6' 0""",220.0,OF,"Valera, Venezuela",R/R
+803170,Fabian Muniz,21-10-1998,26.0,"5' 9""",183.0,P,"Los Angeles, USA",R/R
+616617,Adrian Gusman,05-08-1991,33.0,"6' 0""",180.0,P,"Ensenada, Mexico",L/L
+664583,Beder Gutierrez,13-01-1997,27.0,"6' 0""",180.0,OF,"Santa Rosalia, Mexico",R/R
+628329,Rusney Castillo,09-07-1987,37.0,"5' 9""",207.0,OF,"Ciego de Avila, Cuba",R/R
+606467,Richelson Peña,29-09-1993,31.0,"6' 1""",170.0,P,"Valverde Mao, Dominican Republic",R/R
+592802,Jake Thompson,08-08-1989,35.0,"6' 2""",225.0,P,"Downey, USA",R/R
+463036,Carlos Martinez,30-03-1984,40.0,"6' 4""",180.0,P,"Cotui, Dominican Republic",R/R
+806460,Jacob Barfield,15-09-1995,29.0,"6' 1""",200.0,OF,"Houston, USA",R/R
+667605,Alay Lago,21-07-1991,33.0,"6' 0""",200.0,2B,"La Habana, Cuba",R/R
+826518,Markos  Sanchez,07-07-2006,18.0,"5' 7""",154.0,P,"Los Mochis, Mexico",R/R
+827543,Jorge Ruiz,17-06-2003,21.0,"6' 0""",198.0,P,"Cancun, Mexico",R/R
+827662,Maikol Perez,27-03-2000,24.0,"6' 0""",180.0,OF,,R/R
+811474,Luis Partida,15-12-2003,20.0,"5' 6""",156.0,OF,"Tecuala, Mexico",R/R
+642584,Franklyn Kilome,25-06-1995,29.0,"6' 6""",175.0,P,"La Romana, Dominican Republic",R/R
+680023,Daniel Mercado,09-03-1996,28.0,"6' 0""",190.0,C,"Nogales, Mexico",R/R
+543934,Tyler Wilson,24-12-1989,34.0,"6' 5""",195.0,P,"Rome, USA",R/R
+807586,Omar Araujo,07-02-1999,25.0,"6' 1""",220.0,P,"El Naranjo, Mexico",R/R
+595018,Joe Van Meter,18-10-1988,36.0,"6' 2""",195.0,P,"Manhasset, USA",R/R
+592865,Taylor Williams,21-07-1991,33.0,"5' 11""",185.0,P,"Vancouver, USA",S/R
+642299,Alejandro Flores,27-12-1995,28.0,"6' 1""",180.0,C,"Hermosillo, Mexico",S/R
+661255,Yoan López,02-01-1993,31.0,"6' 3""",208.0,P,"Nueva Gerona, Cuba",R/R
+600526,José Torres,24-09-1993,31.0,"6' 2""",175.0,P,"Caracas, Venezuela",L/L
+668210,Adrian Tovalin,11-02-1996,28.0,"6' 2""",222.0,1B,"San Diego, USA",R/R
+571437,Aaron Altherr,14-01-1991,33.0,"6' 5""",215.0,OF,"Landstuhl, Germany",R/R
+703722,Miguel Vazquez,18-11-1995,28.0,"6' 2""",205.0,P,"Los Mochis, Mexico",R/R
+686659,Julian Escobedo,10-06-1998,26.0,"6' 0""",190.0,OF,"Chula Vista, USA",L/L
+542340,Jonathan Villar,02-05-1991,33.0,"6' 0""",233.0,2B,"La Vega, Dominican Republic",S/R
+804107,Albert Lara,10-09-1998,26.0,"5' 8""",190.0,IF,"Matanzas, Cuba",R/R
+544369,Didi Gregorius,18-02-1990,34.0,"6' 3""",205.0,SS,"Amsterdam, Netherlands",L/R
+674504,Francisco Hernandez,31-08-1994,30.0,"5' 8""",176.0,OF,"San Felipe, Mexico",L/L
+657051,Nicholas Torres,30-06-1993,31.0,"6' 1""",220.0,OF,"Long Beach, USA",R/R
+570731,Jonathan Schoop,16-10-1991,33.0,"6' 1""",247.0,2B,"Willemstad, Curacao",R/R
+642707,Allen Córdoba,06-12-1995,28.0,"6' 2""",235.0,SS,"Changuinola, Panama",R/R
+808937,Gael Guzman,28-09-2004,20.0,"6' 0""",194.0,C,"Ciudad Sabinas Hidalgo, Mexico",R/R
+657096,Braden Webb,25-04-1995,29.0,"6' 3""",200.0,P,"Owasso, USA",R/R
+803881,Alain Tandron,31-08-2002,22.0,"6' 1""",154.0,P,"Sancti Sipiritus, Cuba",R/R
+624418,Ryan Castellani,01-04-1996,28.0,"6' 4""",218.0,P,"Philadelphia, USA",R/R
+594953,Daniel Palka,28-10-1991,33.0,"6' 2""",240.0,1B,"Greenville, USA",L/L
+681944,Dean Nevarez,04-01-1997,27.0,"6' 0""",220.0,C,"Tijuana, Mexico",R/R
+641852,Thomas McIlraith,17-02-1994,30.0,"6' 4""",220.0,P,"Amarillo, USA",R/R
+572943,Jeff Ibarra,18-08-1987,37.0,"6' 6""",180.0,P,"Escondido, USA",L/L
+657261,Darren Seferina,24-01-1994,30.0,"5' 9""",175.0,2B,"Willemstad, Curacao",L/R
+677977,Edgar Robles,21-08-1996,28.0,"6' 2""",180.0,OF,"Ciudad Obregon, Mexico",L/L
+651002,Steven Fuentes,04-05-1997,27.0,"6' 2""",241.0,P,"Puerto Armuelles, Panama",R/R
+678298,Adrian Del Moral,17-02-1999,25.0,"6' 1""",190.0,P,"Xalapa, Mexico",R/R
+650980,Samuel Zazueta,21-11-1996,27.0,"5' 11""",170.0,P,"Ciudad Obregon, Mexico",L/L
+660546,Yennsy Díaz,15-11-1996,27.0,"6' 1""",210.0,P,"Azua, Dominican Republic",R/R
+600975,Rubi Silva,25-06-1989,35.0,"6' 0""",190.0,OF,"Artesima, Cuba",L/R
+595413,Kenneth Sigman,09-09-1989,35.0,"6' 1""",205.0,P,"Tucson, USA",S/R
+572025,Miguel Pena,24-10-1990,34.0,"6' 2""",175.0,P,"Mission, USA",L/L
+473242,Agustin Murillo,05-05-1982,42.0,"6' 3""",195.0,3B,"Tijuana, Mexico",R/R
+685771,Alfredo Hurtado,19-09-1997,27.0,"5' 9""",176.0,C,"Agua Prieta, Mexico",S/R
+606216,Yonathan Mendoza,10-02-1994,30.0,"5' 11""",167.0,IF,"Quibor, Lara, Venezuela",S/R
+606190,Jorgan Cavanerio,18-08-1994,30.0,"6' 1""",155.0,P,"Cagua, Venezuela",R/R
+828461,Leonardo Ortiz,01-09-2007,17.0,"6' 1""",164.0,C,"Mexico City, Mexico",R/R
+664180,Matt Hall,23-07-1993,31.0,"6' 0""",200.0,P,"Independence, USA",L/L
+701619,Alfredo Ruiz,12-03-2000,24.0,"6' 0""",200.0,P,"Chula Vista, USA",L/L
+827712,Edwin Villavicencio,05-09-2007,17.0,"5' 9""",180.0,C,,R/R
+827711,Efren Alvarez,24-11-2007,16.0,"6' 0""",190.0,P,,R/R
+534631,Elih Villanueva,27-07-1986,38.0,"6' 2""",230.0,P,"Miami, USA",R/R
+827463,Aaron Castro,08-06-2007,17.0,"5' 8""",134.0,P,,L/R
+827462,Joseph Uzeta,05-05-2008,16.0,"6' 1""",185.0,C,,R/R
+585133,Arturo Rodriguez,03-10-1991,33.0,"6' 0""",235.0,C,"Monterrey, Mexico",R/R
+671223,Freylin Garcia,06-12-1997,26.0,"6' 3""",170.0,P,"Guayubin, Dominican Republic",R/R
+682845,Rito Lugo,03-11-1995,29.0,"5' 10""",185.0,P,"Naiguata, Venezuela",L/L
+546318,Odúbel Herrera,29-12-1991,32.0,"5' 11""",205.0,OF,"Zulia, Venezuela",L/R
+803165,Luis Medina,16-02-1998,26.0,"6' 2""",201.0,3B,"Havana, Cuba",R/R
+825344,Roberto Salas,12-09-2007,17.0,"5' 11""",150.0,P,"Monterrey, Mexico",R/R
+578659,Jorge Martinez,29-03-1993,31.0,"6' 2""",170.0,OF,"San Pedro de Macoris, Dominican Republic",S/R
+825269,Jose Verdugo,26-09-2007,17.0,"5' 9""",160.0,IF,,R/R
+641569,Xavier Fernández,15-07-1995,29.0,"5' 8""",245.0,C,"Guaynabo, Puerto Rico",R/R
+670940,Juan Pablo Lopez,17-02-1999,25.0,"6' 4""",222.0,P,"Guasave, Mexico",L/L
+627392,Daniel Missaki,09-04-1996,28.0,"6' 0""",170.0,P,"Fujinomiya, Japan",R/R
+676082,Gabriel Rodriguez,09-04-1999,25.0,"6' 1""",193.0,P,"Bayamon, Puerto Rico",L/L
+445995,Arturo Lopez,22-02-1983,41.0,"5' 9""",165.0,P,"Culican, Mexico",L/L
+622736,Roberto Caro,25-09-1993,31.0,"6' 0""",185.0,OF,"San Cristobal, Dominican Republic",S/R
+453575,Jose Guadalupe Chavez,02-01-1985,39.0,"5' 10""",180.0,2B,"Guaymas, Mexico",S/R
+668683,Jeremy Walker,12-06-1995,29.0,"6' 5""",235.0,P,"Advance, USA",R/R
+624420,Ian Clarkin,14-02-1995,29.0,"6' 2""",215.0,P,"San Diego, USA",L/L
+667712,Austin Hansen,25-08-1996,28.0,"6' 0""",204.0,P,"Lenexa, USA",R/R
+477462,Esteban Haro,11-11-1985,38.0,"6' 0""",165.0,P,"Los Mochis, Mexico",R/R
+680970,Andrew Pérez,25-07-1997,27.0,"6' 2""",215.0,P,"Orlando, USA",L/L
+692269,Ramon Mora,08-03-2000,24.0,"5' 7""",174.0,OF,"Mexicali, Mexico",R/L
+649955,Hendrik Clementina,17-06-1997,27.0,"6' 2""",250.0,C,"Willemstad, Curacao",R/R
+703006,Jorge Sauceda,17-01-2002,22.0,"5' 10""",150.0,P,"Ciudad Obregon, Mexico",R/R
+519434,Michael Wing,25-10-1988,36.0,"6' 1""",180.0,2B,"Pasadena, USA",R/R
+703007,Jesus Cordova,12-06-2001,23.0,"5' 8""",190.0,C,"Hermosillo, Mexico",R/R
+620396,Miguel Aguilar,26-09-1991,33.0,"5' 8""",194.0,P,"Ciudad Obregon, Mexico",L/L
+687953,Matt Minnick,11-03-1996,28.0,"6' 2""",210.0,P,"Buffalo, USA",R/L
+828656,Luis Villavicencio,06-02-2004,20.0,"5' 11""",175.0,P,"Guaymas, Mexico",R/R
+596720,Dovydas Neverauskas,14-01-1993,31.0,"6' 3""",225.0,P,"Vilnius, Lithuania",R/R
+605446,Dereck Rodríguez,05-06-1992,32.0,"6' 0""",208.0,P,"Arlington, USA",R/R
+613546,Angelo Castellano,13-01-1995,29.0,"5' 11""",165.0,SS,"San Diego, Venezuela",R/R
+828454,Pedro Salazar,13-06-2003,21.0,"6' 0""",234.0,P,"Matamoros, Mexico",L/L
+692979,Maikel Serrano,31-03-1993,31.0,"5' 9""",220.0,OF,"Pinar del Rio, CUB",R/R
+806591,Christopher Gastelum,19-10-2004,20.0,"5' 10""",161.0,IF,"Huatabampo, Mexico",R/R
+624645,Julian Leon,24-01-1996,28.0,"5' 11""",235.0,C,"Hermosillo, Mexico",R/R
+594105,Aldo Montes,02-02-1990,34.0,"6' 1""",180.0,P,"Tijuana Baja, Mexico",R/R
+605894,Severino González,28-09-1992,32.0,"6' 2""",155.0,P,"Santiago de Veragua, Panama",R/R
+691959,Nestor Anguamea,11-03-2000,24.0,"5' 9""",154.0,P,"Ciudad Obregon, Mexico",R/R
+803125,Jose Orrantia,11-07-1998,26.0,"5' 10""",165.0,OF,"Los Mochis, Mexico",R/R
+828390,Carlos Baez,08-10-2005,19.0,"5' 7""",188.0,2B,"Ciudad Obregon, Mexico",S/R
+607162,Onelki Garcia,02-08-1989,35.0,"6' 3""",225.0,P,"Guantanamo, Cuba",L/L
+688548,Nico Tellache,14-01-1998,26.0,"6' 0""",205.0,P,"Canby, USA",L/L
+668954,Curtis Taylor,25-07-1995,29.0,"6' 6""",235.0,P,"Port Coquitlam, Canada",R/R
+645179,Luis Ivan Rodriguez,24-08-1996,28.0,"5' 9""",181.0,P,"Guadalajara, Mexico",R/R
+666929,Matt Hartman,28-02-1996,28.0,"6' 3""",220.0,P,"San Diego, USA",R/R
+608652,Luke Farrell,07-06-1991,33.0,"6' 6""",200.0,P,"Westlake, USA",L/R
+596105,Dwight Smith Jr.,26-10-1992,32.0,"6' 0""",210.0,OF,"Peachtree City, USA",L/R
+605353,Vimael Machín,25-09-1993,31.0,"5' 11""",185.0,3B,"Humacao, Puerto Rico",L/R
+803197,Marco Fregozo,22-05-2001,23.0,"6' 2""",211.0,P,"Rosamorada, Mexico",R/R
+657228,Jake Jewell,16-05-1993,31.0,"6' 2""",217.0,P,"Norman, USA",R/R
+501625,Jose Alvarez,06-05-1989,35.0,"5' 11""",195.0,P,"Barcelona, Venezuela",L/L
+692389,Alejandro Cervantes,15-05-2001,23.0,"6' 2""",189.0,P,"Guasave, Mexico",R/R
+542455,Oswaldo Arcia,09-05-1991,33.0,"6' 0""",225.0,OF,"Anaco, Venezuela",L/R
+643494,A.J. Puckett,27-05-1995,29.0,"6' 4""",200.0,P,"Walnut Creek, USA",R/R
+595943,Phillip Evans,10-09-1992,32.0,"5' 9""",210.0,3B,"Whittier, USA",R/R
+664848,Donny Sands,16-05-1996,28.0,"6' 0""",190.0,C,"Tucson, USA",R/R
+527045,Gabriel Noriega,13-09-1990,34.0,"6' 2""",180.0,3B,"Maturin, Venezuela",R/R
+666164,Blake Rutherford,02-05-1997,27.0,"6' 1""",205.0,OF,"Simi Valley, USA",L/R
+675912,Zac Lowther,30-04-1996,28.0,"6' 2""",235.0,P,"Middleburg Heights, USA",L/L
+656839,Jorge Perez,10-07-1993,31.0,"6' 2""",205.0,P,"Tolleson, USA",R/R
+664069,Ben Braymer,28-04-1994,30.0,"6' 2""",212.0,P,"Baton Rouge, USA",L/L
+595885,Greg Bird,09-11-1992,31.0,"6' 3""",220.0,1B,"Memphis, USA",L/R
+572868,Anthony Giansanti,28-09-1988,36.0,"5' 10""",195.0,OF,"New London, USA",R/R
+657101,Nick Wells,21-02-1996,28.0,"6' 5""",185.0,P,"Alexandria, USA",L/L
+667445,Marshall Kasowski,10-03-1995,29.0,"6' 3""",215.0,P,"Conroe, USA",L/R
+682201,Austin Ross,16-08-1994,30.0,"6' 1""",185.0,P,"Beaver, USA",R/R
+520471,Freddy Galvis,14-11-1989,34.0,"5' 10""",190.0,SS,"Punto Fijo, Venezuela",S/R
+592660,Rangel Ravelo,24-04-1992,32.0,"6' 0""",235.0,1B,"Havana, Cuba",R/R
+700063,Alexis Vera,19-03-2000,24.0,"6' 2""",188.0,P,"Ocotlan, Mexico",R/R
+602513,Gonzalo Sanudo,10-01-1992,32.0,"6' 3""",235.0,P,"Tabasco, Mexico",L/R
+570799,Christian Villanueva,19-06-1991,33.0,"5' 11""",210.0,3B,"Guadalajara, Mexico",R/R
+643588,Tyler Viza,21-10-1994,30.0,"6' 3""",170.0,P,"Phoenix, USA",R/R
+627893,Carlos Belen,28-02-1996,28.0,"6' 1""",250.0,P,"Santo Domingo, Dominican Republic",R/R
+596671,Omar Renteria,17-01-1990,34.0,"5' 9""",180.0,C,"Tepatitlan, Mexico",R/R
+501660,Zoilo Almonte,10-06-1989,35.0,"6' 0""",205.0,OF,"Santo Domingo, Dominican Republic",S/R
+455369,Ramiro Pena,18-07-1985,39.0,"5' 11""",200.0,2B,"Monterrey, Mexico",S/R
+601978,Fabian Cota,13-04-1992,32.0,"6' 1""",170.0,P,"Los Mochis, Mexico",L/L
+622492,Keury Mella,02-08-1993,31.0,"6' 2""",234.0,P,"Bonao, Dominican Republic",R/R
+665745,Javier Salazar,28-10-1996,28.0,"6' 1""",205.0,IF,"Monterrey, Mexico",L/R
+664966,Jonathan Morales,29-01-1995,29.0,"5' 9""",200.0,C,"Arroyo, Puerto Rico",R/R
+593495,Daniel Castro,14-11-1992,31.0,"5' 11""",201.0,SS,"Guaymas, Mexico",R/R
+676021,Luis Santos,04-01-2000,24.0,"5' 6""",160.0,2B,"Paso de la Boca, Mexico",R/R
+696535,Brayan Mendoza,30-05-2001,23.0,"6' 1""",163.0,OF,"Los Mochis, Mexico",L/R
+802392,Carlos Medina,08-11-2004,20.0,"5' 7""",176.0,,"Culiacan, Mexico",L/R
+650339,Jermaine Palacios,19-07-1996,28.0,"6' 0""",145.0,SS,"Barquisimeto, Venezuela",R/R
+661313,Asael Sanchez,04-03-1994,30.0,"6' 0""",170.0,OF,"CuautItlan, Mexico",R/R
+606580,Jose Cardona,16-03-1994,30.0,"6' 1""",175.0,OF,"San Nicolas de los Garza, Mexico",R/R
+593144,Richard Rodríguez,04-03-1990,34.0,"6' 4""",220.0,P,"Santiago, Dominican Republic",R/R
+664196,Tanner Anderson,27-05-1993,31.0,"6' 2""",203.0,P,"Boynton Beach, USA",R/R
+672438,Roberto Valenzuela,03-03-1995,29.0,"5' 9""",181.0,2B,"Obregon, Mexico",R/R
+504083,Jorge Rondon,16-02-1988,36.0,"6' 1""",215.0,P,"Calabozo, Venezuela",R/R
+680653,Denny Roman,30-09-1998,26.0,"5' 9""",180.0,P,"Zacatecas, Mexico",L/L
+628013,Victor Mendoza,30-11-1990,33.0,"6' 2""",205.0,1B,"Obregon, Sonora, Mexico",L/L
+608577,Nomar Mazara,26-04-1995,29.0,"6' 4""",225.0,OF,"Santo Domingo, Dominican Republic",L/L
+605501,Stephen Tarpley,17-02-1993,31.0,"6' 0""",202.0,P,"Los Angeles, USA",R/L
+666728,Carlos Soto,27-04-1999,25.0,"6' 1""",225.0,C,"Los Mochio, Mexico",L/R
+811370,Enrique Castillo,30-07-1996,28.0,"6' 3""",202.0,P,"Hermosillo, Mexico",R/R
+660508,Norwith Gudiño,22-11-1995,28.0,"6' 2""",248.0,P,"Puerto Cabello, Venezuela",R/R
+808721,Kevin Kelly,27-05-1990,34.0,"6' 0""",200.0,P,,R/R
+554031,Jose Manuel Orozco,17-10-1990,34.0,"6' 0""",190.0,OF,"Mazatlan, Mexico",L/L
+598724,Manuel Boscan,10-03-1993,31.0,"6' 0""",160.0,2B,"Maracaibo, Venezuela",L/R
+827710,Greg Duncan,13-07-1998,26.0,"6' 0""",190.0,P,,R/R
+682274,Yaramil Hiraldo,31-12-1995,28.0,"6' 1""",180.0,P,"Santiago, Dominican Republic",R/R
+673882,Freddvil Chevez,13-03-2000,24.0,"6' 4""",200.0,1B,"Masaya, Nicaragua",R/R
+694642,Kent Hasler,15-10-1995,29.0,"5' 10""",205.0,P,"Chandler, USA",R/R
+477453,Santiago Gonzalez,25-07-1983,41.0,"5' 4""",140.0,OF,"Actopan, Mexico",R/R
+645799,Isaac Jimenez,12-12-1995,28.0,"5' 11""",175.0,P,"Oaxaca, Mexico",R/R
+683030,Edwyn Valle,30-06-1988,36.0,"6' 1""",200.0,P,"Guasave, Mexico",R/R
+663445,James Nelson,18-10-1997,27.0,"6' 2""",180.0,3B,"Rex, USA",R/R
+660850,Juan Robles,06-11-1997,27.0,"6' 0""",185.0,P,"Navojoa, Mexico",R/R
+593450,Luis Ramirez,12-07-1992,32.0,"6' 3""",200.0,P,"Lorna de Cabrera, Dominican Republic",R/R
+660842,Juan Uriarte,17-09-1997,27.0,"6' 0""",182.0,C,"Los Mochis, Mexico",R/R
+604996,Carlos Garzon,14-05-1992,32.0,"6' 0""",205.0,C,"Oaxaca, Mexico",R/R
+641104,Carlos Mendivil,29-08-1993,31.0,"5' 7""",180.0,C,"Tijuana, Mexico",L/R
+628366,Ariel Sandoval,06-11-1995,29.0,"6' 2""",180.0,OF,"Sabana Grande de Boya, Dominican Republic",R/R
+622464,Wendell Floranus,16-04-1995,29.0,"6' 0""",160.0,P,"Willemstad, Curacao",R/R
+510552,Ozzie Mendez,16-04-1988,36.0,"6' 1""",160.0,P,"Santiago Ixcuintla, Mexico",L/L
+700718,Baltazar Arredondo,22-01-2004,20.0,"6' 1""",175.0,P,"El Fuerte, Mexico",L/L
+641538,Frank Duncan,30-01-1992,32.0,"6' 4""",215.0,P,"San Francisco, USA",R/R
+547921,Tiago Da Silva,28-03-1985,39.0,"5' 9""",180.0,P,"Sao Paulo, Brazil",R/R
+674478,Luis Payan,29-08-1995,29.0,"5' 9""",176.0,P,"Guasave, Mexico",R/R
+650909,Juan Rodriguez,13-02-1997,27.0,"6' 0""",175.0,3B,"Guasave, Mexico",R/R
+660751,Gregori Vasquez,08-09-1997,27.0,"6' 1""",185.0,P,"San Cristobal, Dominican Republic",R/R
+663782,Joe Corbett,12-10-1996,28.0,"6' 5""",230.0,P,"Oklahoma City, USA",R/R
+703060,Alejandro Urias,15-06-2002,22.0,"6' 0""",183.0,C,"Los Mochis, Mexico",R/R
+686734,Arturo Roque,02-12-2000,23.0,"6' 1""",155.0,P,"San Juan de los Lagos, Mexico",R/R
+687330,Kevin Kelly,28-11-1997,26.0,"6' 2""",200.0,P,"Springfield, USA",R/R
+600898,Jecksson Flores,28-10-1993,31.0,"5' 11""",145.0,SS,"Cuidad Bolivar, Venezuela",R/R
+665093,Zac Grotz,17-02-1993,31.0,"6' 2""",195.0,P,"San Mateo, USA",R/R
+596107,Eric Filia,06-07-1992,32.0,"6' 0""",189.0,OF,"Carlsbad, USA",L/R
+607372,Juan Perez,01-11-1991,33.0,"5' 11""",185.0,IF,"Winnetka, USA",L/R
+628345,Darien Núñez,19-03-1993,31.0,"6' 2""",205.0,P,"Las Tunas, Cuba",L/L
+701063,Pablo Tellez,26-08-1999,25.0,"5' 9""",180.0,P,"Monclova, Mexico",R/R
+573064,Vidal Nuño,26-07-1987,37.0,"5' 11""",210.0,P,"National City, USA",L/L
+616613,Rodolfo Amador,11-11-1992,31.0,"5' 11""",195.0,3B,"Loreto, Mexico",L/R
+639238,Edgar Arredondo,16-05-1997,27.0,"6' 3""",230.0,P,"Culiacan, Mexico",R/R
+805678,Joe Riley,30-09-1995,29.0,"6' 1""",205.0,P,"Alameda, USA",R/R
+650813,Luis Escobar,30-05-1996,28.0,"6' 1""",205.0,P,"Cartagena, Colombia",R/R
+515768,Balbino Fuenmayor,26-11-1989,34.0,"6' 3""",230.0,1B,"Valencia, Venezuela",R/R
+619854,Carlos Bustamante,25-09-1994,30.0,"6' 0""",190.0,P,"Navajoa, Mexico",R/R
+658140,Wilmer Rios,03-03-1994,30.0,"6' 1""",185.0,P,"Guasave, Mexico",R/R
+622700,Santiago Chávez,05-08-1995,29.0,"5' 11""",205.0,C,"Saltillo, Mexico",R/R
+595798,R.J. Alaniz,14-06-1991,33.0,"6' 4""",220.0,P,"McAllen, USA",R/R
+657090,Brac Warren,14-02-1996,28.0,"6' 4""",220.0,P,"Rosebud, USA",R/R
+452061,Zach Phillips,21-09-1986,38.0,"6' 1""",200.0,P,"Sacramento, USA",L/L
+608365,Addison Russell,23-01-1994,30.0,"6' 0""",200.0,2B,"Pensacola, USA",R/R
+608167,Jonathan Aro,10-10-1990,34.0,"6' 0""",235.0,P,"La Vega, Dominican Republic",R/R
+607355,Logan Moore,22-08-1990,34.0,"6' 3""",220.0,C,"Scranton, USA",L/R
+807608,Jose Mora,26-10-2001,23.0,"6' 2""",216.0,P,"Hermosillo, Mexico",R/R
+650346,Ramon Hernandez,02-03-1996,28.0,"6' 4""",195.0,IF,"Santo Domingo, Dominican Republic",R/R
+679721,Joey Pulido,25-09-1995,29.0,"5' 10""",185.0,P,"Clute, USA",R/R
+625506,Aldrem Corredor,27-10-1995,29.0,"6' 0""",202.0,1B,"Miranda, Venezuela",L/L
+650869,Rodolfo Martinez,04-04-1994,30.0,"6' 2""",200.0,P,"Boca Chica, Dominican Republic",R/R
+642423,Magneuris Sierra,07-04-1996,28.0,"5' 11""",178.0,OF,"San Cristobal, Dominican Republic",L/L
+681501,Chavez Fernander,07-07-1997,27.0,"6' 3""",205.0,P,"Freeport, Bahamas",R/R
+816260,Bryan Corral,28-01-2005,19.0,,,OF,,L/L
+680643,Juan Mora,30-09-1999,25.0,"5' 9""",176.0,2B,"Mazatlan, Mexico",R/R
+674381,Moises Lugo,20-01-1999,25.0,"6' 1""",185.0,P,"San Cristobal, Dominican Republic",R/R
+661311,Brandon Villarreal,25-11-1994,29.0,"5' 11""",170.0,IF,"Ciudad Obregon, Mexico",R/R
+811419,Luis Carlos Martinez,11-12-2002,21.0,"6' 1""",172.0,IF,"Saltillo, Mexico",R/R
+642344,Jhon Nuñez,05-12-1994,29.0,"5' 9""",165.0,C,"Villa Gonzalez, Dominican Republic",S/R
+690414,Calvin Estrada,18-05-1997,27.0,"6' 1""",215.0,OF,"Los Angeles, USA",R/R
+650530,Bryan Garcia,19-04-1995,29.0,"6' 1""",205.0,P,"Miami, USA",R/R
+541652,Bruce Rondón,09-12-1990,33.0,"6' 3""",275.0,P,"Valencia, Venezuela",R/R
+655996,Cristian Santana,24-02-1997,27.0,"6' 2""",175.0,3B,"San Cristobal, Dominican Republic",R/R
+825747,Shane Skelly,07-05-2002,22.0,"5' 9""",180.0,IF,,R/R
+593632,Luis Moreno,18-06-1992,32.0,"6' 0""",170.0,P,"Maracay, Venezuela",R/R
+650957,Andretty Cordero,03-05-1997,27.0,"6' 1""",170.0,IF,"Santo Domingo, Dominican Republic",R/R
+815761,Axel Santos,16-04-2004,20.0,"5' 9""",165.0,2B,"Aguascalientes, Mexico",R/R
+642574,Ronald Medrano,17-09-1995,29.0,"6' 0""",170.0,P,"Managua, Nicaragua",R/R
+642375,Jose Carlos Medina,25-08-1996,28.0,"6' 3""",215.0,P,"Culiacan, Mexico",L/L
+675585,Jorge Gonzalez,28-05-1998,26.0,"6' 0""",196.0,OF,"Guadalajara, Mexico",L/R
+674496,Daniel Cornejo,15-10-1990,34.0,"6' 2""",203.0,OF,"Guasave, Mexico",R/R
+678411,Gustavo Ruiz,22-03-2000,24.0,"6' 0""",175.0,C,,R/R
+541600,Wilfredo Tovar,11-08-1991,33.0,"5' 7""",180.0,SS,"Santa Teresa del Tuy, Venezuela",R/R
+665661,Shea Spitzbarth,04-10-1994,30.0,"6' 1""",215.0,P,"Staten Island, USA",R/R
+695411,Jesus Figueroa,08-04-2004,20.0,"5' 9""",187.0,P,"Santiago Ixcuintla, Mexico",R/R
+668616,Marco Jaime,07-07-1996,28.0,"6' 2""",215.0,IF,"Phoenix, USA",S/R
+631229,Dalton Rodriguez,20-08-1996,28.0,"6' 1""",180.0,P,"Mexicali, Mexico",R/R
+682779,Jose Luna,02-12-1998,25.0,"6' 3""",177.0,P,"Los Mochis, Mexico",R/R
+664573,Oddy Nunez,20-12-1996,27.0,"6' 8""",230.0,P,"Santiago de los Caballeros, Dominican Republic",L/L
+600914,Ulises Joaquin,11-06-1992,32.0,"5' 11""",165.0,P,"Santo Domingo, Dominican Republic",R/R
+540204,Ramon Rios,04-03-1988,36.0,"5' 10""",200.0,2B,"Guyamas, Sonora, Mexico",R/R
+554374,Ariel Hernández,02-03-1992,32.0,"6' 4""",230.0,P,"Santo Domingo, Dominican Republic",R/R
+622580,Angel Reyes,06-05-1995,29.0,"6' 0""",175.0,OF,"Barcelona, Venezuela",R/R
+592604,Justin O'Conner,31-03-1992,32.0,"6' 0""",201.0,P,"Indianapolis, USA",R/R
+663723,Derek West,02-12-1996,27.0,"6' 5""",257.0,P,"Orange City, USA",R/R
+660659,Leobaldo Cabrera,21-01-1998,26.0,"6' 1""",170.0,OF,"Guarenas, Venezuela",R/R
+608608,Carlos Munoz,29-06-1994,30.0,"5' 11""",225.0,1B,"Parral, Mexico",L/L
+672376,Luis Pacheco,22-04-1999,25.0,"6' 2""",185.0,P,"Palo Negro, Venezuela",R/R
+670079,Tyler Beardsley,17-05-1994,30.0,"6' 4""",225.0,P,"Tehachapi , USA",R/R
+553891,Leonardo Reginatto,10-04-1990,34.0,"6' 2""",180.0,3B,"Curitiba, Brazil",R/R
+700710,Anthony Herrera,04-03-1995,29.0,"5' 10""",170.0,P,"Houston, USA",R/R
+666015,Francisco Villegas,31-08-1997,27.0,"6' 2""",175.0,P,"Cuauhtemoc, Mexico",L/L
+666212,Greg Veliz,10-04-1997,27.0,"6' 2""",200.0,P,"Key West, USA",L/R
+547375,Sergio Perez,27-10-1989,35.0,"6' 0""",180.0,OF,"Nuevo Laredo, Mexico",L/R
+654034,Wilfredo Ramirez,12-03-1993,31.0,"6' 1""",190.0,P,"San Luis Potosi, Mexico",L/R
+500724,JC Ramírez,16-08-1988,36.0,"6' 4""",220.0,P,"Managua, Nicaragua",R/R
+669085,Alex Scherff,05-02-1998,26.0,"6' 3""",205.0,P,"Colleyville, USA",S/R
+678470,Kevin McGovern,22-05-1989,35.0,"6' 2""",190.0,P,"Philadelphia, USA",L/L
+811478,Luis Moreno,09-08-1999,25.0,"5' 9""",166.0,P,"Hermosillo, Mexico",R/R
+673238,Alejandro Chavez,14-07-1999,25.0,"6' 2""",170.0,P,"Guasave, Mexico",R/R
+691678,Vidal Sotelo,11-08-2002,22.0,"5' 9""",211.0,P,"Guasave, Mexico",L/L
+811553,Cristian Garza,17-10-2003,21.0,"5' 9""",180.0,P,"Hermosillo, Mexico",L/L
+660518,Juan Camacho,19-04-1996,28.0,"6' 3""",215.0,C,"Las Mochis, Mexico",R/R
+446044,Joshua Rodriguez,18-12-1984,39.0,"6' 0""",192.0,3B,"Houston, USA",R/R
+553883,Vicente Campos,27-07-1992,32.0,"6' 3""",230.0,P,"La Guaira, Venezuela",R/R
+692473,Christopher Escarrega,17-07-1999,25.0,"5' 9""",194.0,C,"Uriangato, Mexico",S/R
+670328,Juan Gámez,07-03-1994,30.0,"5' 11""",247.0,P,"Tucson, USA",R/R
+676190,Carlos Morales,05-01-1997,27.0,"6' 1""",200.0,P,"Saltillo, Mexico",R/R
+663884,Nolan Kingham,18-08-1996,28.0,"6' 4""",210.0,P,"Las Vegas, USA",R/R
+824049,Alonso Becerra,06-07-2004,20.0,"6' 0""",180.0,P,"Tepatitlan de Morelos, Mexico",L/L
+678414,Felipe Acosta,05-04-2000,24.0,"6' 2""",185.0,P,,R/R
+685730,Hendrick Briones,01-11-2001,23.0,"6' 1""",167.0,P,"Durango, Mexico",R/R
+703008,Isaac Briones,01-11-2001,23.0,"6' 1""",175.0,P,"Durango, Mexico",R/R
+682841,Michael Robles,10-11-1997,26.0,"6' 1""",168.0,IF,"Obregon, Mexico",R/R
+828711,Alejandro Rivera,16-12-2005,18.0,,,C,,R/L
+828751,Juan Vazquez,,,,,C,,R/R
+607895,Fernando Perez,17-12-1993,30.0,"6' 3""",181.0,P,"Santo Domingo, Dominican Republic",R/R
+666510,Ulises Lopez,31-05-1989,35.0,"6' 0""",200.0,P,"Cananea, Mexico",R/R
+653248,Amilcar Gomez,27-01-1995,29.0,"5' 8""",179.0,OF,"Guadalajara, Mexico",S/R
+678712,Mario Garcia,27-12-1998,25.0,"6' 1""",183.0,P,"Los Mochis, Mexico",R/R
+445010,Fernando Perez,23-04-1983,41.0,"6' 1""",195.0,OF,"Elizabeth, USA",R/R
+657745,Bubby Rossman,29-06-1992,32.0,"6' 5""",220.0,P,"La Habra, USA",S/R
+665890,Seuly Matias,04-09-1998,26.0,"6' 3""",225.0,OF,"La Isabela, Dominican Republic",R/R
+670369,Christian Torres,07-09-1993,31.0,"6' 0""",160.0,P,"Canovanas, Puerto Rico",L/L
+681503,Pablo Garabitos,30-07-2000,24.0,"6' 1""",170.0,P,"San Cristobal, Dominican Republic",L/L
+677573,Heitor Tokar,25-10-2000,24.0,"6' 6""",276.0,P,"Marilia, Brazil",R/R
+672606,Ricardo Hernandez,04-02-1998,26.0,"6' 1""",205.0,P,"Cuernevaca, Mexico",R/R
+572127,Jose Sermo,22-03-1991,33.0,"6' 1""",190.0,2B,"Bayamon, Puerto Rico",S/R
+594906,Alfredo Lopez,07-10-1989,35.0,"5' 10""",160.0,2B,"Long Beach, USA",R/R
+650378,Ofelky Peralta,20-04-1997,27.0,"6' 5""",195.0,P,"Bonao, Dominican Republic",R/R
+664590,Jorge Tavarez,04-08-1995,29.0,"5' 10""",150.0,P,"Loma de Cabrera, Dominican Republic",R/R
+621599,Steven Fuentes,21-10-1994,30.0,"6' 0""",210.0,P,"Caracas, Venezuela",S/R
+572308,José A. Váldez,01-03-1990,34.0,"5' 11""",210.0,P,"Don Gregorio de Nizao, Dominican Republic",R/R
+477584,Tomas Solis,02-10-1982,42.0,"6' 0""",190.0,P,"Los Mochis, Mexico",L/L
+676020,Javier Sanchez,27-10-1999,25.0,"5' 11""",160.0,SS,"Los Mochis, Mexico",R/R
+811620,Jorge Morales,03-05-2001,23.0,"6' 0""",187.0,C,"Ciudad Obregon, Mexico",R/R
+492879,Jose Valdez,01-08-1988,36.0,"6' 7""",250.0,P,"Sabana Palenque, Dominican Republic",R/R
+696115,Elmer Lopez,10-09-2001,23.0,,,OF,,R/R
+608380,Drew Ward,25-11-1994,29.0,"6' 3""",231.0,1B,"Leedey, USA",L/R
+802888,Victor Marquez,21-12-2001,22.0,"6' 0""",190.0,IF,"Poza Rica, Mexico",S/R
+519214,Derek Rodriguez,13-02-1989,35.0,"5' 9""",160.0,OF,"Ignacio, USA",S/R
+659253,Aldo Flores,30-09-1995,29.0,"5' 10""",168.0,IF,"Calvillo, Mexico",L/R
+542266,Carlos Contreras,08-01-1991,33.0,"5' 11""",215.0,P,"Santo Domingo, Dominican Republic",R/R
+677741,Yasel Santana,14-12-1996,27.0,"6' 1""",180.0,P,"Moca, DOM",R/R
+600902,Wilson Garcia,11-01-1994,30.0,"5' 10""",227.0,1B,"Caracas, Venezuela",S/R
+642659,Raynel Espinal,06-10-1991,33.0,"6' 3""",215.0,P,"Villa Gonzalez, Dominican Republic",R/R
+823949,Rogelio Quesada,15-06-1993,31.0,"6' 0""",213.0,P,,R/R
+666141,Drew Mendoza,10-10-1997,27.0,"6' 4""",225.0,3B,"Ocoee, USA",L/R
+664006,Joey Marciano,11-01-1995,29.0,"6' 5""",250.0,P,"Carbondale, USA",L/L
+689620,Orlando Rodriguez,16-12-1995,28.0,"6' 2""",195.0,P,"Miami Gardens, USA",R/R
+665651,Diego Rincones,14-06-1999,25.0,"5' 11""",175.0,OF,"Ciudad Bolivar, Venezuela",R/R
+691376,Irving Medina,12-06-2003,21.0,"6' 1""",175.0,P,"Victoria de Durango, Mexico",R/R
+604596,Alex Delgado,01-11-1994,30.0,"6' 1""",187.0,P,"Mexicali, Mexico",L/L
+642857,Yapson Gomez,02-10-1993,31.0,"5' 10""",160.0,P,"San Cristobal, Venezuela",L/L
+671495,Channy Ortiz,11-04-1999,25.0,"5' 10""",165.0,3B,"Phoenix, USA",S/R
+501531,Luis Ramirez,24-04-1988,36.0,"6' 3""",170.0,OF,"Yamasa, Dominican Republic",L/L
+571800,Drew Hutchison,22-08-1990,34.0,"6' 3""",215.0,P,"Lakeland, USA",L/R
+828459,Eduardo Arredono Jr.,14-05-2006,18.0,"5' 6""",161.0,SS,"La Antigua, Mexico",S/R
+828325,Tadeo Gamez,06-07-2008,16.0,"6' 0""",168.0,P,"Ahome, Mexico",R/R
+824007,Braulio Cavero,25-04-2006,18.0,"6' 0""",155.0,OF,"Ensenda, Mexico",L/R
+658305,Edgar García,04-10-1996,28.0,"6' 1""",205.0,P,"Palenque, Dominican Republic",R/R
+457453,Jair Jurrjens,29-01-1986,38.0,"6' 1""",200.0,P,"Santa Maria, Curacao",R/R
+811360,David Hernandez,01-03-2005,19.0,"6' 5""",216.0,P,"Lagos de Moreno, Mexico",L/L
+591672,Osmer Morales,30-10-1992,32.0,"6' 3""",196.0,P,"Villa de Cura, Venezuela",R/R
+701598,Brandon Gutierrez,18-04-2000,24.0,"5' 9""",190.0,P,"Saltillo, Mexico",L/L
+660756,Eury Ramos,10-10-1997,27.0,"6' 3""",152.0,P,"Guananico, Dominican Republic",R/R
+593772,Yeison Asencio,14-11-1989,34.0,"6' 1""",225.0,OF,"Santo Domingo, Dominican Republic",R/R
+676802,Bryan Blanton,19-12-1995,28.0,"6' 0""",190.0,P,,R/R
+806623,Kevin Armenta,14-07-2002,22.0,"5' 9""",188.0,IF,"Guasave, Mexico",R/R
+527054,Julio Teheran,27-01-1991,33.0,"6' 2""",205.0,P,"Cartagena, Colombia",R/R
+669105,Zach Muckenhirn,27-02-1995,29.0,"6' 0""",205.0,P,"Delano, USA",L/L
+673258,Michel Baez,21-01-1996,28.0,"6' 8""",220.0,P,"Havana, Cuba",R/R
+682494,Jameson McGrane,25-06-1992,32.0,"6' 4""",215.0,P,"Framingham, USA",R/R
+641855,Ian McKinney,18-11-1994,29.0,"5' 11""",185.0,P,"Orlando, USA",L/L
+827757,Joel Rangel,08-11-2006,18.0,,,,"Tecate, Mexico",R/R
+828256,Victor Rodriguez,16-06-2007,17.0,"5' 5""",143.0,2B,"Ensenada, Mexico",L/R
+663506,Yaya Chentouf,18-06-1997,27.0,"5' 9""",205.0,P,"Orlando, USA",R/R
+672882,Ismael Alcantara,25-09-1998,26.0,"6' 1""",165.0,OF,"Santo Domingo, Dominican Republic",R/R
+827653,Luis Aguayo,20-11-2007,16.0,"6' 1""",177.0,P,"Culiacan, Mexico",R/R
+664161,Matt Swarmer,25-09-1993,31.0,"6' 5""",195.0,P,"Mohnton, USA",R/R
+663610,Daniel Amaral,07-03-1997,27.0,"6' 0""",190.0,OF,"Long Beach, USA",R/R
+676156,Alex Gallegos,14-05-1998,26.0,"6' 3""",174.0,P,,R/R
+666137,Khalil Lee,26-06-1998,26.0,"5' 10""",170.0,OF,"Newark, USA",L/L
+828702,Jeremy Cano,24-09-2007,17.0,"5' 10""",150.0,P,"Monclova, Mexico",R/R
+811607,Omar Bustamante,19-08-2005,19.0,"5' 10""",180.0,C,"Hermosillo, Mexico",R/R
+695870,Richard Brito,05-11-1998,26.0,"6' 4""",190.0,P,"Caracas, Venezuela",R/R
+572241,David Washington,20-11-1990,33.0,"6' 5""",260.0,1B,"San Diego, USA",L/L
+643485,Jorge Perez,30-07-1993,31.0,"6' 0""",185.0,P,"Jamaica, USA",R/R
+605652,Julio Vivas,01-10-1993,31.0,"6' 2""",227.0,P,"Tachira, Venezuela",R/R
+806621,Francisco Perez,21-10-2006,18.0,"6' 0""",188.0,C,"Navojoa, Mexico",R/R
+680600,Samuel Burgos,07-06-1999,25.0,"6' 3""",205.0,P,,R/R
+682072,Stevie Ledesma,22-11-1995,28.0,"6' 5""",195.0,P,"Ventura, USA",R/R
+800096,Aldo Nunez,23-04-2001,23.0,"5' 6""",178.0,2B,"Merida, MEX",S/R
+676090,Harrison Francis,26-10-1998,26.0,"6' 2""",195.0,P,"Tallahassee, USA",R/R
+605891,Luis Rico,29-11-1993,30.0,"6' 1""",175.0,P,"Puerto La Cruz, Venezuela",L/L
+656782,Max Murphy,17-11-1992,31.0,"5' 11""",195.0,OF,"Robbinsdale, USA",R/R
+802580,Roberto Castro,10-08-2000,24.0,"6' 0""",180.0,OF,"Monclova, Mexico",L/R
+598718,Terance Marin,21-08-1989,35.0,"6' 1""",170.0,P,"Modesto, USA",R/R
+815275,Gael Bermudez,03-12-2004,19.0,"6' 4""",165.0,P,"Obregon, Mexico",R/R
+660631,Kevin Vicuña,14-01-1998,26.0,"6' 0""",140.0,1B,"Puerto La Cruz, Venezuela",R/R
+802562,Cesar Cuevas,10-07-1999,25.0,"5' 10""",175.0,IF,"Orange County, USA",R/R
+471679,Carlos Alberto Gastelum,29-10-1979,45.0,"5' 10""",165.0,2B,"Huatabampo, Mexico",R/R
+675880,Daniel De La Fuente,18-07-1997,27.0,"6' 2""",210.0,P,"Ciudad Juarez, Mexico",R/R
+682761,Josuan Hernandez,30-01-1994,30.0,"5' 8""",190.0,IF,"Havana, Cuba",R/R
+827113,Yandy Yanes,30-01-1998,26.0,"6' 1""",187.0,IF,"Camaguey, Cuba",R/R
+680881,Niko Hulsizer,01-02-1997,27.0,"6' 1""",225.0,OF,"Mohnton, USA",R/R
+691032,Luis Moreno,29-05-1999,25.0,"5' 8""",170.0,P,"San Cristobal, Dominican Republic",R/R
+676722,Marcus Chiu,13-01-1997,27.0,"6' 2""",208.0,2B,"Novato, USA",R/R
+666016,Jose Albertos,07-11-1998,26.0,"6' 1""",185.0,P,"Reynoso, Mexico",R/R
+815328,Abiel Amador,10-05-2002,22.0,"5' 10""",176.0,OF,"Veracruz, Mexico",R/R
+664284,Carlos Espinal,21-10-1996,28.0,"5' 11""",175.0,P,"Santiago, Dominican Republic",R/R
+828331,Diago Machado,10-03-2005,19.0,"6' 0""",180.0,OF,"San Diego, USA",L/R
+596119,Blake Swihart,03-04-1992,32.0,"6' 0""",185.0,C,"Bedford, USA",S/R
+113231,Alex Delgado,11-01-1971,53.0,"6' 0""",195.0,C,"Palmerejo, Venezuela",R/R
+660587,Leo Crawford,02-02-1997,27.0,"6' 0""",180.0,P,"Puerto Cabezas, Nicaragua",L/L
+543874,Jose Vargas,15-12-1987,36.0,"6' 3""",225.0,1B,"Ventura, USA",R/R
+806317,Axel Sauceda,19-05-2001,23.0,"6' 7""",229.0,P,"Culiacan, Mexico",R/R
+679630,Brett Schulze,24-11-1997,26.0,"6' 2""",180.0,P,"Maple Grove, USA",R/R
+828253,Yunieski Garcia,14-05-1992,32.0,"5' 11""",194.0,P,,R/R
+665940,Moisés Castillo,14-07-1999,25.0,"6' 0""",170.0,SS,"La Romana, Dominican Republic",R/R
+621144,Cal Becker,09-06-1993,31.0,"6' 1""",195.0,P,"Kenfield, USA",R/R
+546276,Edwin Escobar,22-04-1992,32.0,"6' 2""",225.0,P,"La Boyera, Venezuela",L/L
+807802,Yuichi Shiota,03-02-1997,27.0,,,P,,R/R
+592468,Nick Kingham,08-11-1991,33.0,"6' 5""",235.0,P,"Houston, USA",R/R
+656352,Braxton Davidson,18-06-1996,28.0,"6' 2""",230.0,OF,"Asheville, USA",L/L
+644403,Luis Martinez,29-01-1995,29.0,"6' 6""",200.0,P,"Carupano, Venezuela",R/R
+680602,Jason Carmona,28-08-2001,23.0,"6' 0""",170.0,P,"Rincon de Romos, Mexico",R/R
+660660,Kenny Hernandez,13-08-1998,26.0,"6' 0""",194.0,SS,"Turmero, Venezuela",L/R
+521655,Wilmer Font,24-05-1990,34.0,"6' 4""",255.0,P,"La Guaira, Venezuela",R/R
+828443,Diego Castro,03-01-2006,18.0,"6' 2""",194.0,P,,R/R
+676103,Damon Jones,30-09-1994,30.0,"6' 5""",233.0,P,"Twin Falls, USA",L/L
