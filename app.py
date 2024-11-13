@@ -113,10 +113,32 @@ team_data_std_pitchers, team_data_adv_pitchers = load_team_data_pitchers()
 
 # --- Main App ---
 # Add a select box to choose between Batters and Pitchers
-selected_category = st.selectbox("Select Category", ["Batters", "Pitchers"])
+col1, col2, _ = st.columns([1,1,2])
+with col1:
+    selected_category = st.selectbox("Select Category", ["Batters", "Pitchers"])
 
 if selected_category == "Batters":
     # --- Batters Section ---
+    with col2:
+        st.markdown(
+            """<a href="https://lmb-percentiles.streamlit.app/" target="_blank" style="text-decoration: none;">
+                <div style="
+                    display: inline-block;
+                    padding: 0.5em 1em;
+                    color: white;
+                    background-color: #a19174;
+                    border-radius: 5px;
+                    text-align: center;
+                    font-weight: bold;
+                    cursor: pointer;
+                    font-size: 1em;
+                ">
+                    Percentiles
+                </div>    
+            </a>
+            """,
+            unsafe_allow_html=True
+        )
     # --- Calculate League Averages ---
     # Aggregate data for standard stats
     total_hits = team_data_std_batters['H'].sum()
@@ -1001,7 +1023,7 @@ elif selected_category == "Pitchers":
         st.markdown("<h1 style='text-align: center;'>League & Teams</h1>", unsafe_allow_html=True)
         # Display Combined League Averages
         st.subheader("League Averages", divider='gray')
-
+# 3.8153875525009537
         league_avg_df.insert(2, 'FIP', 5.16)
         league_avg_df.insert(3, 'xFIP', 4.45)
         league_columns = ['ERA', 'WHIP', 'FIP', 'xFIP','K%', 'BB%', 'K-BB%', 'SwStr%', 'Whiff%', 'Str%', 'CSW%', 'CStr%', 'F-Strike%', 'LD%', 'GB%', 'FB%', 'PopUp%', 'HR/FB%', 'BABIP', 'AVG', 'OBP', 'SLG', 'OPS',
