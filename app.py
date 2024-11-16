@@ -188,6 +188,7 @@ if selected_category == "Batters":
         'OBP': [league_obp],
         'SLG': [league_slg],
         'OPS': [league_ops],
+        'wOBA': .354,
         'BABIP': [league_babip],
         'K%': [league_k_percent],
         'BB%': [league_bb_percent],
@@ -377,7 +378,7 @@ if selected_category == "Batters":
         advanced_stats.loc[:, 'season'] = advanced_stats['season'].astype(int)
 
         # Select specific columns and order for advanced stats
-        advanced_columns = ['season', 'Name', 'team', 'BABIP', 'K%', 'BB%', 'HR/PA', 'BB/K', 'HR/FB%', 'SwStr%', 'Whiff%', 'FB%', 'GB%', 'LD%', 'PopUp%']
+        advanced_columns = ['season', 'Name', 'team', 'wOBA', 'BABIP', 'K%', 'BB%', 'HR/PA', 'BB/K', 'HR/FB%', 'SwStr%', 'Whiff%', 'FB%', 'GB%', 'LD%', 'PopUp%']
         advanced_stats_filtered = advanced_stats[advanced_columns].copy()
 
         # Sort by season in descending order and by team
@@ -405,7 +406,8 @@ if selected_category == "Batters":
             'FB%': '{:.1f}',
             'GB%': '{:.1f}',
             'LD%': '{:.1f}',
-            'PopUp%': '{:.1f}'
+            'PopUp%': '{:.1f}',
+            'wOBA' :  '{:.3f}'
         }).apply(highlight_multiple_teams, axis=1)
 
         # Display Advanced Stats table
@@ -550,9 +552,10 @@ if selected_category == "Batters":
         st.dataframe(team_standard_formatted, use_container_width=True, hide_index=True)
 
         st.subheader("Team Advanced Stats", divider='gray')
-        advanced_columns = ['team', 'BABIP', 'K%', 'BB%', 'HR/PA', 'BB/K', 'SwStr%', 'Whiff%', 'FB%', 'GB%', 'LD%', 'PopUp%', 'HR/FB%']
+        advanced_columns = ['team', 'wOBA', 'BABIP', 'K%', 'BB%', 'HR/PA', 'BB/K', 'SwStr%', 'Whiff%', 'FB%', 'GB%', 'LD%', 'PopUp%', 'HR/FB%']
         team_advanced_formatted = team_data_adv_batters[advanced_columns].style.format({
-            'BABIP': '{:.3f}', 'K%': '{:.1f}', 'BB%': '{:.1f}', 'HR/PA': '{:.3f}', 'BB/K': '{:.3f}', 'HR/FB%': '{:.1f}', 'SwStr%': '{:.1f}', 'Whiff%': '{:.1f}', 'FB%': '{:.1f}', 'GB%': '{:.1f}', 'LD%': '{:.1f}', 'PopUp%': '{:.1f}'
+            'BABIP': '{:.3f}', 'K%': '{:.1f}', 'BB%': '{:.1f}', 'HR/PA': '{:.3f}', 'BB/K': '{:.3f}', 'HR/FB%': '{:.1f}', 'SwStr%': '{:.1f}', 
+            'Whiff%': '{:.1f}', 'FB%': '{:.1f}', 'GB%': '{:.1f}', 'LD%': '{:.1f}', 'PopUp%': '{:.1f}', 'wOBA' : '{:.3f}'
         })
         st.dataframe(team_advanced_formatted, use_container_width=True, hide_index=True)
 
@@ -565,7 +568,7 @@ if selected_category == "Batters":
         merged_df = pd.merge(
             standard_stats_df,
             advanced_stats_df,
-            on=['player_id', 'season'],
+            on=['player_id', 'season', 'team'],
             how='outer',
             suffixes=('', '_adv')
         )
@@ -583,7 +586,7 @@ if selected_category == "Batters":
         # List of columns to display (excluding 'season' for the final display)
         display_columns = [
             'Name', 'team', 'G', 'PA', 'AB', 'H', 'RBI', 'SB', '2B', '3B', 'HR', 'R',
-            'TB', 'HBP', 'SF', 'K', 'BB', 'IBB', 'AVG', 'OBP', 'SLG', 'OPS', 'K%', 'BB%', 'BABIP'
+            'TB', 'HBP', 'SF', 'K', 'BB', 'IBB', 'AVG', 'OBP', 'SLG', 'OPS', 'wOBA','K%', 'BB%', 'BABIP'
         ]
 
         # Set up Streamlit layout
@@ -628,7 +631,8 @@ if selected_category == "Batters":
             'OPS': '{:.3f}',
             'BABIP': '{:.3f}',
             'K%': '{:.1f}',
-            'BB%': '{:.1f}'
+            'BB%': '{:.1f}',
+            'wOBA': '{:.3f}'
         }
         filtered_df = filtered_df.style.format(format_dict)
 
